@@ -1056,29 +1056,39 @@ http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/31975.ts
 #EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: La 8 Ávila
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20904.ts
 
-#EXTINF:0 tvg-id="ext" group-title="ES | Estilo de Vida",ES: Nesting TV
+#EXTINF:0 tvg-id="ext" group-title="Estilo de Vida",ES: Nesting TV
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55577.ts
-#EXTINF:0 tvg-id="ext" group-title="ES | Estilo de Vida",•●★--- ES Estilo de Vida ----★●•
+#EXTINF:0 tvg-id="ext" group-title="Estilo de Vida",•●★--- ES Estilo de Vida ----★●•
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6940.ts
-#EXTINF:0 tvg-id="CrimeAndInvestigation.es" group-title="ES | Estilo de Vida",ES: Crime & Investigation
+#EXTINF:0 tvg-id="CrimeAndInvestigation.es" group-title="Estilo de Vida",Crime & Investigation
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3638.ts
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="ES | Estilo de Vida",ES: Canal Cocina HD (1080P)
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="Estilo de Vida",Canal Cocina HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25184.ts
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="ES | Estilo de Vida",ES: Canal Cocina HD (720P)
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="Estilo de Vida",Canal Cocina HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32117.ts
-#EXTINF:0 tvg-id="Cocina.es" group-title="ES | Estilo de Vida",ES: Canal Cocina
+#EXTINF:0 tvg-id="Cocina.es" group-title="Estilo de Vida",Canal Cocina
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4023.ts
-#EXTINF:0 tvg-id="Decasa.es" group-title="ES | Estilo de Vida",ES: Decasa HD (1080P)
+#EXTINF:0 tvg-id="Decasa.es" group-title="Estilo de Vida", Decasa HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/29642.ts
-#EXTINF:0 tvg-id="Decasa.es" group-title="ES | Estilo de Vida",ES: Decasa HD (720P)
+#EXTINF:0 tvg-id="Decasa.es" group-title="Estilo de Vida",Decasa HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71128.ts
-#EXTINF:0 tvg-id="Decasa.es" group-title="ES | Estilo de Vida",ES: Decasa
+#EXTINF:0 tvg-id="Decasa.es" group-title="Estilo de Vida",Decasa
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3639.ts
-#EXTINF:0 tvg-id="DKISS.es" group-title="ES | Estilo de Vida",ES: Dkiss
+#EXTINF:0 tvg-id="DKISS.es" group-title="Estilo de Vida",Dkiss
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4047.ts
 
 #EXTINF:0 tvg-id="ext" group-title="ES | Cine",•●★--- ES Movistar+ Cine ----★●•
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6933.ts
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES | Cine",ES: #0 FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52481.ts
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES | Cine",ES: #0 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50676.ts
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES | Cine",ES: #0 HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3758.ts
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES | Cine",ES: #0 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3272.ts
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES | Cine",ES: #0 SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4595.ts
 #EXTINF:0 tvg-id="M.Accion.es" group-title="ES | Cine",ES: M. Accion FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25204.ts
 #EXTINF:0 tvg-id="M.Accion.es" group-title="ES | Cine",ES: M. Accion FHD (Fibra)
@@ -1232,16 +1242,6 @@ http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55836.ts
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55837.ts
 #EXTINF:0 tvg-id="CrimeAndInvestigation.es" group-title="ES | Series",ES: M. Crimen SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/51253.ts
-#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES | Series",ES: #0 FHD (H.265)
-http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52481.ts
-#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES | Series",ES: #0 FHD (Fibra)
-http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50676.ts
-#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES | Series",ES: #0 HD (1080P)
-http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3758.ts
-#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES | Series",ES: #0 HD (720P)
-http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3272.ts
-#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES | Series",ES: #0 SD
-http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4595.ts
 #EXTINF:0 tvg-id="Calle13.es" group-title="ES | Series",ES: Calle 13 FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61258.ts
 #EXTINF:0 tvg-id="Calle13.es" group-title="ES | Series",ES: Calle 13 FHD (Fibra)
@@ -1742,4 +1742,5 @@ http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25174.ts
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25183.ts
 #EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="BeIN Media Group",US: BeIN Sports ñ HD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/30037.ts
+
 
