@@ -1,0 +1,1745 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
+#EXTINF:0 tvg-id="Multideporte1.es" group-title="ES | Fútbol",ES: Multideporte
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62703.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Fútbol",ES: Movistar+ Portada
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/48901.ts
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="ES | Fútbol",ES: M Liga de Campeones FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25193.ts
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="ES | Fútbol",ES: M Liga de Campeones FHD (H.265) OP1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20852.ts
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="ES | Fútbol",ES: M Liga de Campeones FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50640.ts
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="ES | Fútbol",ES: M Liga de Campeones HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3176.ts
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="ES | Fútbol",ES: M Liga de Campeones HD (1080P) OP1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50639.ts
+#EXTINF:0 tvg-id="BomCine.es" group-title="ES | Fútbol",ES: M Liga de Campeones HD (1080P) OP2
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50638.ts
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="ES | Fútbol",ES: M Liga de Campeones HD (1080P) OP3
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56363.ts
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="ES | Fútbol",ES: M Liga de Campeones HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3763.ts
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="ES | Fútbol",ES: M Liga de Campeones HD (720P) OP1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56364.ts
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="ES | Fútbol",ES: M Liga de Campeones HD (720P) OP2
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/69430.ts
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="ES | Fútbol",ES: M Liga de Campeones SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4265.ts
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="ES | Fútbol",ES: M Liga de Campeones SD (OP1)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/67933.ts
+#EXTINF:0 tvg-id="M.LigaCampeones2.es" group-title="ES | Fútbol",ES: M Liga de Campeones 2 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62358.ts
+#EXTINF:0 tvg-id="M.LigaCampeones2.es" group-title="ES | Fútbol",ES: M Liga de Campeones 2 FHD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3768.ts
+#EXTINF:0 tvg-id="M.LigaCampeones2.es" group-title="ES | Fútbol",ES: M Liga de Campeones 2 FHD (Solo Eventos) OP1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56367.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Exponiendo Infieles
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41846.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Caso Cerrado Inmigracion
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41847.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Caso Cerrado La Familia 1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41848.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Caso Cerrado La Familia 2
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41849.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Caso Cerrado La Familia 3
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41850.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Laura Bozzo
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41851.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Miguelito (Chile)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41852.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Lo Que Callamos Las Mujeres
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41853.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Mayday Catastrofes Aereas
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41854.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Alienigenas Ancestrales
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41855.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Mundo De Beakman Temp 1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41856.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Mundo De Beakman Temp 2
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41857.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Mundo De Beakman Temp 3
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41858.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Mundo De Beakman Temp 4
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41859.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Castle Temp 1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41860.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Castle Temp 2
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41861.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Castle Temp 3
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41862.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Castle Temp 4
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41863.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Castle Temp 5
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41864.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Castle Temp 6
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41865.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Castle Temp 7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41866.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: CSI Miami Temp 1-5
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41867.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: CSI Miami Temp 6-10
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41868.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: NCIS Los Angeles
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41869.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: FBI
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41870.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Los Magnificos Temp 1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41871.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Los Magnificos Temp 2
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41872.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Auto Fantastico
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41873.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Auto Fantastico (2008)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41874.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: MacGiver (2016) Temp 1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41875.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: MacGiver (2016) Temp 2
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41876.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: ER Sala de Urgencias
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41877.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Baywatch
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41878.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Zorro (1956)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41879.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Walker Texas Ranger
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41880.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Mr Bean
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41881.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Porcel Y Olmedo
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41882.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: La India Maria
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41883.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Cantinflas Parte 1 (18 Peliculas)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41884.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Cantinflas Parte 2 (19 Peliculas)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41885.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Cantinflas (Animada)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41886.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Los 3 Chiflados
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41887.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Pedro Infante
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41888.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Chapulin Colorado
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41889.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Chavo del 8
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41890.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Chavo del 8 Serie Animada
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41891.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Principe del Rap Temp 1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41892.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Principe del Rap Temp 2
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41893.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Principe del Rap Temp 3
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41894.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Principe del Rap Temp 4
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41895.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Principe del Rap Temp 5
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41896.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Principe del Rap Temp 6
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41897.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Hechizada Temp 1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41898.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Hechizada Temp 2
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41899.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Hechizada Temp 3
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41900.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Hechizada Temp 4
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41901.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Hechizada Temp 5
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41902.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Hechizada Temp 6
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41903.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Mi Bella Genio Temp 1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41904.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: La Niñera Temp 1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41905.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Friends Temp 1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41906.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Friends Temp 2
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41907.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Malcolm el de en Medio
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41908.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Hannah Montana Temp 1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41909.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Paso A Paso
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41910.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: La Hora Pico
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41911.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Una Familia de Diez
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41912.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: La Familia Peluche
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41913.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: ALF
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41914.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Vecinos Temp 1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41915.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Vecinos Temp 2
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41916.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Vecinos Temp 3
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41917.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Vecinos Temp 4
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41918.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Vecinos Temp 5
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41919.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Full House Temp 1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41920.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Full House Temp 2
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41921.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: La Familia Ingalls
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41922.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: La Familia Ingalls FHD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41923.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Xena La Princesa Guerrera
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41924.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Hercules Los Viajes Legendarios
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41925.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Liveman
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41926.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Narrador de Cuentos
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41927.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: 1000 Maneras de Morir
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41928.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Oxlack Investigador Paranormal
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41929.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Contacto Extranormal
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41930.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Historias de Ultratumba
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41931.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Cuentos de la Cripta Animada
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41932.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Ataque a los Titanes SUB
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41933.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Paradise PD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41934.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: PJ Masks: Heroes en pijamas
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41935.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Dragones de Berck
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41936.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Los Vengadores (Unidos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41937.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Rapido y Furioso (Espias a todo gas)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41938.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Guardianes de la Galaxia (Animado)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41939.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Gravity Falls
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41940.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Brickleberry (+15)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41941.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Mr Pickles
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41942.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Barney y sus Amigos
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41943.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Automan
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41944.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Animaniacs
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41945.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Autobus Magico
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41946.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Bubble Guppies
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41947.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Coraje el Perro Cobarde
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41948.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Digimon Adventure
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41949.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Donde esta Wally
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41950.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Dora la Exploradora
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41951.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Dora y sus Amigos en la Ciudad
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41952.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Agente Oso
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41953.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Bebe Jefazo Vuelta al Curro
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41954.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Laboratorio de Dexter
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41955.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Equipo Umizoomi
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41956.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Fabulas de Esopo
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41957.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Garfield
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41958.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: La Casa de Mickey Mouse
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41959.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: La Casa de Mickey Mouse Full HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41960.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: La Doctora Juguete
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41961.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: La Pantera Rosa
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41962.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Las Pistas de Blue
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41963.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Los Picapiedras
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41964.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Los Picapiedras (Pequeños)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41965.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Futurama
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41966.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Futurama HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41967.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Futurama Full HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41968.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Los Simpsons Noche de Brujas
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41969.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Los Simpsons Temp 1-5
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41970.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Los Simpsons HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41971.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Los Simpsons Full HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41972.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: South Park Temp 1-5
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41973.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: South Park Full HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41974.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Padre de Familia Temp 1-5
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41975.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Padre de Familia HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41976.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Padre de Familia Full HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41977.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Paw Patroll
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41978.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Peppa Pig
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41979.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Transformers Mastersforce (1988)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41980.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Hey Arnold
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41981.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Hombres de Negro Serie Animada
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41982.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Los Pitufos
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41983.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Dragon Ball (Vers Extendida)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41984.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Dragon Ball Z Los Saiyajin
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41985.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Dragon Ball Z Freezer
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41986.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Dragon Ball Z Cell
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41987.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Dragon Ball Z Majin Boo
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41988.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Dragon Ball GT
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41989.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: She-Ra La Princesa del Poder
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41990.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: He-Man y los Masters del Universo
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41991.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Capitan America y Los Planetarios
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41992.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Tom Y Jerry
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41993.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Tom Y Jerry Kids
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41994.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Pato Aventura
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41995.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Sailor Moon
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41996.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Las Guerreras Magicas
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41997.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Las Tortugas Ninja
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41998.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Angry Birds Toons
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41999.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Aladino
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42000.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Birdman
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42001.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Gargolas Heroes Goticos
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42002.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Spiderman
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42003.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Super Mario Bross 3
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42004.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Super Campeones (Captain Tsubasa)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42005.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Los Castores Cascarrabias
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42006.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Saint Seiya Torneo Galactico
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42007.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Saint Seiya Las 12 Casas
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42008.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Saint Seiya Asgard
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42009.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Saint Seiya Poseidon
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42010.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Saint Seiya Hades
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42011.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Beast Wars
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42012.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Beast Wars Machines
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42013.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Gi Joe
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42014.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Rugrats Aventura en Pañales
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42015.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Las Chicas Superpoderosas
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42016.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Capitan Cabernicola
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42017.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Jhonny Bravo
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42018.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: La Vaca y el Pollito
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42019.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Los Años Maravillosos
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42020.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Scooby Doo
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42021.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Don Gato y su Pandilla
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42022.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Gasparin y sus Amigos
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42023.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Las Aventuras de Tin Tin
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42024.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Los Supersonicos
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42025.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Inspector Gadget
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42026.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Oso Yogui
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42027.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Los Muppet Babys
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42028.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Candy Candy
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42029.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: La Familia Meñique
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42030.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: La Pequeña Lulu
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42031.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Un Show Mas
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42032.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Reto de los Super Amigos
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42033.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Fenomenoide
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42034.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: La Hormiga y el Oso Hormiguero
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42035.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Pais de Donkey Kong
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42036.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Pinguinos de Madagascar
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42037.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Super Libro
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42038.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Los 7 Pecados Capitales
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42039.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Timon & Pumbaa
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42040.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: La Casa de los Dibujos
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42041.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: El Gallo Claudio
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42042.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Halcones Galacticos
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42043.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Pinky y Cerebro
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42044.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Heathcliff
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42045.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Jackie Chan (Animada)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42046.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: La Tonta Bruja
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42047.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Beetlejuice
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42048.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Sonic X
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42049.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Street Sharks
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42050.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Samurai Jack
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42051.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Generador Rex
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42052.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Los Gatos Samurai
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42053.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Sakura Card Captor
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42054.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Los Osos Gummi
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42055.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: La Liga del Dragon VHSRip
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42056.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Megaman NT Warrior
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42057.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Los Padrinos Magicos
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42058.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Thundercats
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42059.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Tarzan Animado
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42060.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Samurai X
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42061.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Mighty Ducks
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42062.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: 101 Dalmatas Animada
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42063.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Los Backyardigans
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42064.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Robotech
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42065.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Pocoyo
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42066.ts
+#EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Clasicos de Disney (Latino)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42067.ts
+#EXTINF:0 tvg-id="M.LigaCampeones2.es" group-title="ES | Fútbol",ES: M Liga de Campeones 2 HD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50558.ts
+#EXTINF:0 tvg-id="M.LigaCampeones2.es" group-title="ES | Fútbol",ES: M Liga de Campeones 2 SD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4360.ts
+#EXTINF:0 tvg-id="M.LigaCampeones3.es" group-title="ES | Fútbol",ES: M Liga de Campeones 3 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/69780.ts
+#EXTINF:0 tvg-id="M.LigaCampeones3.es" group-title="ES | Fútbol",ES: M Liga de Campeones 3 HD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3769.ts
+#EXTINF:0 tvg-id="M.LigaCampeones3.es" group-title="ES | Fútbol",ES: M Liga de Campeones 3 SD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56368.ts
+#EXTINF:0 tvg-id="M.LigaCampeones4.es" group-title="ES | Fútbol",ES: M Liga de Campeones 4 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/69781.ts
+#EXTINF:0 tvg-id="M.LigaCampeones4.es" group-title="ES | Fútbol",ES: M Liga de Campeones 4 HD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3770.ts
+#EXTINF:0 tvg-id="M.LigaCampeones4.es" group-title="ES | Fútbol",ES: M Liga de Campeones 4 SD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56369.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Fútbol",ES: M Liga de Campeones 5 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55575.ts
+#EXTINF:0 tvg-id="M.LigaCampeones5.es" group-title="ES | Fútbol",ES: M Liga de Campeones 5 HD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3771.ts
+#EXTINF:0 tvg-id="M.LigaCampeones5.es" group-title="ES | Fútbol",ES: M Liga de Campeones 5 SD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20513.ts
+#EXTINF:0 tvg-id="M.LigaCampeones6.es" group-title="ES | Fútbol",ES: M Liga de Campeones 6 HD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3772.ts
+#EXTINF:0 tvg-id="M.LigaCampeones6.es" group-title="ES | Fútbol",ES: M Liga de Campeones 6 SD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/40871.ts
+#EXTINF:0 tvg-id="M.LigaCampeones7.es" group-title="ES | Fútbol",ES: M Liga de Campeones 7 HD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3773.ts
+#EXTINF:0 tvg-id="M.LigaCampeones8.es" group-title="ES | Fútbol",ES: M Liga de Campeones 8 HD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3774.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Fútbol",ES: M Liga de Campeones 9 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62689.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Fútbol",ES: M Liga de Campeones 10 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62690.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Fútbol",ES: M Liga de Campeones 11 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62691.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Fútbol",ES: M Liga de Campeones 12 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62692.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Fútbol",ES: M Liga de Campeones 13 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63632.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Fútbol",ES: M Liga de Campeones 14 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63633.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Fútbol",ES: M Liga de Campeones 15 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63634.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Fútbol",ES: M Liga de Campeones 16 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63635.ts
+#EXTINF:0 tvg-id="DAZNLaLiga.es" group-title="ES | Fútbol",ES: M. Dazn LaLiga 1 FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71560.ts
+#EXTINF:0 tvg-id="DAZNLaLiga.es" group-title="ES | Fútbol",ES: M. Dazn LaLiga 1 HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71552.ts
+#EXTINF:0 tvg-id="DAZNLaLiga.es" group-title="ES | Fútbol",ES: M. Dazn LaLiga 1 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71553.ts
+#EXTINF:0 tvg-id="DAZNLaLiga.es" group-title="ES | Fútbol",ES: M. Dazn LaLiga 1 HD (720P) OP1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71555.ts
+#EXTINF:0 tvg-id="DAZNLaLiga.es" group-title="ES | Fútbol",ES: M. Dazn LaLiga 1 HD (720P) OP2
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71619.ts
+#EXTINF:0 tvg-id="DAZNLaLiga.es" group-title="ES | Fútbol",ES: M. Dazn LaLiga 1 SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71554.ts
+#EXTINF:0 tvg-id="DAZNLaLiga2.es" group-title="ES | Fútbol",ES: M. Dazn LaLiga 2 HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71556.ts
+#EXTINF:0 tvg-id="DAZNLaLiga2.es" group-title="ES | Fútbol",ES: M. Dazn LaLiga 2 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71557.ts
+#EXTINF:0 tvg-id="DAZNLaLiga2.es" group-title="ES | Fútbol",ES: M. Dazn LaLiga 2 HD (720P) OP1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71559.ts
+#EXTINF:0 tvg-id="DAZNLaLiga2.es" group-title="ES | Fútbol",ES: M. Dazn LaLiga 2 SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71558.ts
+#EXTINF:0 tvg-id="M.LaLiga.es" group-title="ES | Fútbol",ES: M. LaLiga FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63779.ts
+#EXTINF:0 tvg-id="M.LaLiga.es" group-title="ES | Fútbol",ES: M. LaLiga FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63783.ts
+#EXTINF:0 tvg-id="M.LaLiga.es" group-title="ES | Fútbol",ES: M. LaLiga HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/67632.ts
+#EXTINF:0 tvg-id="M.LaLiga.es" group-title="ES | Fútbol",ES: M. LaLiga HD (1080P) OP1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63773.ts
+#EXTINF:0 tvg-id="M.LaLiga.es" group-title="ES | Fútbol",ES: M. LaLiga HD (1080P) OP2
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63782.ts
+#EXTINF:0 tvg-id="M.LaLiga.es" group-title="ES | Fútbol",ES: M. LaLiga HD (1080P) OP3
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63778.ts
+#EXTINF:0 tvg-id="M.LaLiga.es" group-title="ES | Fútbol",ES: M. LaLiga HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63774.ts
+#EXTINF:0 tvg-id="M.LaLiga.es" group-title="ES | Fútbol",ES: M. LaLiga HD (720P) OP1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/67633.ts
+#EXTINF:0 tvg-id="M.LaLiga.es" group-title="ES | Fútbol",ES: M. LaLiga SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63788.ts
+#EXTINF:0 tvg-id="M.LaLiga.es" group-title="ES | Fútbol",ES: M. LaLiga SD (OP1)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63791.ts
+#EXTINF:0 tvg-id="M.LaLiga1.es" group-title="ES | Fútbol",ES: M. LaLiga 1 FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63777.ts
+#EXTINF:0 tvg-id="M.LaLiga1.es" group-title="ES | Fútbol",ES: M. LaLiga 1 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63786.ts
+#EXTINF:0 tvg-id="M.LaLiga1.es" group-title="ES | Fútbol",ES: M. LaLiga 1 FHD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63784.ts
+#EXTINF:0 tvg-id="M.LaLiga1.es" group-title="ES | Fútbol",ES: M. LaLiga 1 FHD (Solo Eventos) OP1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63785.ts
+#EXTINF:0 tvg-id="M.LaLiga1.es" group-title="ES | Fútbol",ES: M. LaLiga 1 HD (720P) (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63787.ts
+#EXTINF:0 tvg-id="M.LaLiga1.es" group-title="ES | Fútbol",ES: M. LaLiga 1 SD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63789.ts
+#EXTINF:0 tvg-id="M.LaLiga2.es" group-title="ES | Fútbol",ES: M. LaLiga 2 FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50829.ts
+#EXTINF:0 tvg-id="M.LaLiga2.es" group-title="ES | Fútbol",ES: M. LaLiga 2 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50666.ts
+#EXTINF:0 tvg-id="M.LaLiga2.es" group-title="ES | Fútbol",ES: M. LaLiga 2 FHD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4408.ts
+#EXTINF:0 tvg-id="M.LaLiga2.es" group-title="ES | Fútbol",ES: M. LaLiga 2 HD (720P) (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50549.ts
+#EXTINF:0 tvg-id="M.LaLiga2.es" group-title="ES | Fútbol",ES: M. LaLiga 2 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4409.ts
+#EXTINF:0 tvg-id="M.LaLiga3.es" group-title="ES | Fútbol",ES: M. LaLiga 3 FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62356.ts
+#EXTINF:0 tvg-id="M.LaLiga3.es" group-title="ES | Fútbol",ES: M. LaLiga 3 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50807.ts
+#EXTINF:0 tvg-id="M.LaLiga3.es" group-title="ES | Fútbol",ES: M. LaLiga 3 FHD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4410.ts
+#EXTINF:0 tvg-id="M.LaLiga3.es" group-title="ES | Fútbol",ES: M. LaLiga 3 HD (720P) (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50550.ts
+#EXTINF:0 tvg-id="M.LaLiga3.es" group-title="ES | Fútbol",ES: M. LaLiga 3 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50551.ts
+#EXTINF:0 tvg-id="M.LaLiga4.es" group-title="ES | Fútbol",ES: M. LaLiga 4 FHD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4411.ts
+#EXTINF:0 tvg-id="M.LaLiga4.es" group-title="ES | Fútbol",ES: M. LaLiga 4 HD (720P) (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50552.ts
+#EXTINF:0 tvg-id="M.LaLiga4.es" group-title="ES | Fútbol",ES: M. LaLiga 4 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50553.ts
+#EXTINF:0 tvg-id="M.LaLiga5.es" group-title="ES | Fútbol",ES: M. LaLiga 5 FHD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4412.ts
+#EXTINF:0 tvg-id="M.LaLiga5.es" group-title="ES | Fútbol",ES: M. LaLiga 5 HD (720P) (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50554.ts
+#EXTINF:0 tvg-id="M.LaLiga5.es" group-title="ES | Fútbol",ES: M. LaLiga 5 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50555.ts
+#EXTINF:0 tvg-id="M.LaLiga6.es" group-title="ES | Fútbol",ES: M. LaLiga 6 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4413.ts
+#EXTINF:0 tvg-id="M.LaLiga7.es" group-title="ES | Fútbol",ES: M. LaLiga 7 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/48897.ts
+#EXTINF:0 tvg-id="M.LaLiga8.es" group-title="ES | Fútbol",ES: M. LaLiga 8 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/48898.ts
+#EXTINF:0 tvg-id="M.LaLiga9.es" group-title="ES | Fútbol",ES: M. LaLiga 9 HD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50556.ts
+#EXTINF:0 tvg-id="M.LaLiga10.es" group-title="ES | Fútbol",ES: M. LaLiga 10 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63792.ts
+#EXTINF:0 tvg-id="LaLigaSmartBank.es" group-title="ES | Fútbol",ES: M. LaLiga Smartbank TV HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71594.ts
+#EXTINF:0 tvg-id="LaLigaSmartBank.es" group-title="ES | Fútbol",ES: M. LaLiga Smartbank TV HD (1080P) OP1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71595.ts
+#EXTINF:0 tvg-id="LaLigaSmartBank.es" group-title="ES | Fútbol",ES: M. LaLiga Smartbank TV HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71596.ts
+#EXTINF:0 tvg-id="LaLigaSmartBank.es" group-title="ES | Fútbol",ES: M. LaLiga Smartbank TV SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71597.ts
+#EXTINF:0 tvg-id="LaLigaSmartBankM1.es" group-title="ES | Fútbol",ES: M. LaLiga Smartbank TV 2 HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71598.ts
+#EXTINF:0 tvg-id="LaLigaSmartBankM1.es" group-title="ES | Fútbol",ES: M. LaLiga Smartbank TV 2 HD (1080P) OP1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71599.ts
+#EXTINF:0 tvg-id="LaLigaSmartBankM1.es" group-title="ES | Fútbol",ES: M. LaLiga Smartbank TV 2 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71600.ts
+#EXTINF:0 tvg-id="LaLigaSmartBankM1.es" group-title="ES | Fútbol",ES: M. LaLiga Smartbank TV 2 SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71601.ts
+#EXTINF:0 tvg-id="LaLigaSmartbankTV3.es" group-title="ES | Fútbol",ES: M. LaLiga Smartbank TV 3 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71682.ts
+#EXTINF:0 tvg-id="LaLigaSmartbankTV3.es" group-title="ES | Fútbol",ES: M. LaLiga Smartbank TV 3 SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71683.ts
+#EXTINF:0 tvg-id="LaLigaTVBar.es" group-title="ES | Fútbol",ES: LaLiga TV Bar FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25195.ts
+#EXTINF:0 tvg-id="DCineEsp.es" group-title="ES | Fútbol",ES: LaLiga TV Bar FHD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63790.ts
+#EXTINF:0 tvg-id="DCineEsp.es" group-title="ES | Fútbol",ES: LaLiga TV Bar HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63781.ts
+#EXTINF:0 tvg-id="DCineEsp.es" group-title="ES | Fútbol",ES: LaLiga TV Bar HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63780.ts
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="ES | Fútbol",ES: Real Madrid HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3759.ts
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="ES | Fútbol",ES: Real Madrid SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3186.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Fútbol",ES: Barca TV HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/40769.ts
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="ES | Fútbol",ES: Barca TV
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3242.ts
+#EXTINF:0 tvg-id="BetisTV.es" group-title="ES | Fútbol",ES: Betis TV HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4340.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Fútbol",ES: Sevilla FC
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6640.ts
+#EXTINF:0 tvg-id="Esport3.es" group-title="ES | Fútbol",ES: Esport 3 CAT
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3792.ts
+
+#EXTINF:0 tvg-id="ext" group-title="ES | Deportes",•●★--- ES Movistar+ Deportes ----★●•
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6942.ts
+#EXTINF:0 tvg-id="DAZN1.es" group-title="ES | Deportes",ES: M. Dazn 1 FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/51112.ts
+#EXTINF:0 tvg-id="DAZN1.es" group-title="ES | Deportes",ES: M. Dazn 1 HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/51105.ts
+#EXTINF:0 tvg-id="DAZN1.es" group-title="ES | Deportes",ES: M. Dazn 1 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/51106.ts
+#EXTINF:0 tvg-id="DAZN1.es" group-title="ES | Deportes",ES: M. Dazn 1 SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/51107.ts
+#EXTINF:0 tvg-id="DAZN2.es" group-title="ES | Deportes",ES: M. Dazn 2 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20901.ts
+#EXTINF:0 tvg-id="DAZN2.es" group-title="ES | Deportes",ES: M. Dazn 2 FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/51111.ts
+#EXTINF:0 tvg-id="DAZN2.es" group-title="ES | Deportes",ES: M. Dazn 2 HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/51108.ts
+#EXTINF:0 tvg-id="DAZN2.es" group-title="ES | Deportes",ES: M. Dazn 2 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/51109.ts
+#EXTINF:0 tvg-id="DAZN2.es" group-title="ES | Deportes",ES: M. Dazn 2 SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/51110.ts
+#EXTINF:0 tvg-id="DAZN3.es" group-title="ES | Deportes",ES: M. Dazn 3 FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52849.ts
+#EXTINF:0 tvg-id="DAZN3.es" group-title="ES | Deportes",ES: M. Dazn 3 FHD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52850.ts
+#EXTINF:0 tvg-id="DAZN3.es" group-title="ES | Deportes",ES: M. Dazn 3 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52851.ts
+#EXTINF:0 tvg-id="DAZN3.es" group-title="ES | Deportes",ES: M. Dazn 3 SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52852.ts
+#EXTINF:0 tvg-id="DAZN4.es" group-title="ES | Deportes",ES: M. Dazn 4 FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52853.ts
+#EXTINF:0 tvg-id="DAZN4.es" group-title="ES | Deportes",ES: M. Dazn 4 FHD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52854.ts
+#EXTINF:0 tvg-id="DAZN4.es" group-title="ES | Deportes",ES: M. Dazn 4 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52855.ts
+#EXTINF:0 tvg-id="DAZN4.es" group-title="ES | Deportes",ES: M. Dazn 4 SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52856.ts
+#EXTINF:0 tvg-id="DAZN_F1.es" group-title="ES | Deportes",ES: M. Dazn F1 FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52487.ts
+#EXTINF:0 tvg-id="DAZN_F1.es" group-title="ES | Deportes",ES: M. Dazn F1 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50669.ts
+#EXTINF:0 tvg-id="DAZN_F1.es" group-title="ES | Deportes",ES: M. Dazn F1 HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3181.ts
+#EXTINF:0 tvg-id="BomCine.es" group-title="ES | Deportes",ES: M. Dazn F1 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3760.ts
+#EXTINF:0 tvg-id="BomCine.es" group-title="ES | Deportes",ES: M. Dazn F1 SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4367.ts
+#EXTINF:0 tvg-id="Golf.es" group-title="ES | Deportes",ES: M. Golf FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52489.ts
+#EXTINF:0 tvg-id="Golf.es" group-title="ES | Deportes",ES: M. Golf FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50830.ts
+#EXTINF:0 tvg-id="Golf.es" group-title="ES | Deportes",ES: M. Golf HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3082.ts
+#EXTINF:0 tvg-id="Golf.es" group-title="ES | Deportes",ES: M. Golf HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/29644.ts
+#EXTINF:0 tvg-id="Golf.es" group-title="ES | Deportes",ES: M. Golf SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3624.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Deportes",ES: M. Ellas #V HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71168.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Deportes",ES: M. Ellas #V HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71169.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Deportes",ES: M. Ellas #V SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71170.ts
+#EXTINF:0 tvg-id="Vamos.es" group-title="ES | Deportes",ES: #Vamos FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25199.ts
+#EXTINF:0 tvg-id="Vamos.es" group-title="ES | Deportes",ES: #Vamos FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50670.ts
+#EXTINF:0 tvg-id="Vamos.es" group-title="ES | Deportes",ES: #Vamos HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3335.ts
+#EXTINF:0 tvg-id="Vamos.es" group-title="ES | Deportes",ES: #Vamos HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3607.ts
+#EXTINF:0 tvg-id="Vamos.es" group-title="ES | Deportes",ES: #Vamos SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4372.ts
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="ES | Deportes",ES: M. Deportes FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25194.ts
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="ES | Deportes",ES: M. Deportes FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50660.ts
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="ES | Deportes",ES: M. Deportes FHD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3083.ts
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="ES | Deportes",ES: M. Deportes HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4371.ts
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="ES | Deportes",ES: M. Deportes SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3623.ts
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="ES | Deportes",ES: M. Deportes 1 FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62350.ts
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="ES | Deportes",ES: M. Deportes 1 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50661.ts
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="ES | Deportes",ES: M. Deportes 1 FHD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/31503.ts
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="ES | Deportes",ES: M. Deportes 1 HD (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6641.ts
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="ES | Deportes",ES: M. Deportes 1 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3777.ts
+#EXTINF:0 tvg-id="M.Deportes2.es" group-title="ES | Deportes",ES: M. Deportes 2 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3636.ts
+#EXTINF:0 tvg-id="M.Deportes2.es" group-title="ES | Deportes",ES: M. Deportes 2 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3778.ts
+#EXTINF:0 tvg-id="M.Deportes3.es" group-title="ES | Deportes",ES: M. Deportes 3 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32456.ts
+#EXTINF:0 tvg-id="M.Deportes3.es" group-title="ES | Deportes",ES: M. Deportes 3 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3779.ts
+#EXTINF:0 tvg-id="M.Deportes4.es" group-title="ES | Deportes",ES: M. Deportes 4 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61219.ts
+#EXTINF:0 tvg-id="M.Deportes4.es" group-title="ES | Deportes",ES: M. Deportes 4 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3780.ts
+#EXTINF:0 tvg-id="M.Deportes5.es" group-title="ES | Deportes",ES: M. Deportes 5 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/11593.ts
+#EXTINF:0 tvg-id="M.Deportes5.es" group-title="ES | Deportes",ES: M. Deportes 5 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3781.ts
+#EXTINF:0 tvg-id="M.Deportes6.es" group-title="ES | Deportes",ES: M. Deportes 6 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63796.ts
+#EXTINF:0 tvg-id="M.Deportes7.es" group-title="ES | Deportes",ES: M. Deportes 7 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63797.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Deportes",ES: M. Deportes 8 (Solo Eventos)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63798.ts
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="ES | Deportes",ES: Eurosport 1 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50831.ts
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="ES | Deportes",ES: Eurosport 1 FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50682.ts
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="ES | Deportes",ES: Eurosport 1 HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3250.ts
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="ES | Deportes",ES: Eurosport 1 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4330.ts
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="ES | Deportes",ES: Eurosport 1 SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4652.ts
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="ES | Deportes",ES: Eurosport 2 FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52485.ts
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="ES | Deportes",ES: Eurosport 2 HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6626.ts
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="ES | Deportes",ES: Eurosport 2 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3345.ts
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="ES | Deportes",ES: Eurosport 2 SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32115.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Deportes",ES: Eurosport 3 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55608.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Deportes",ES: Eurosport 3 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55609.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Deportes",ES: Eurosport 4 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55610.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Deportes",ES: Eurosport 5 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55612.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Deportes",ES: Eurosport 6 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55614.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Deportes",ES: Eurosport 7 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55616.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Deportes",ES: Eurosport 8 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55618.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Deportes",ES: U-Beat FHD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/47959.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Deportes",ES: Nautical Channel HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71141.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Deportes",ES: Horse TV HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71142.ts
+
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",•●★--- ES TDT ----★●•
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6935.ts
+#EXTINF:0 tvg-id="LA1.es" group-title="ES | TDT",ES: LA 1  FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61248.ts
+#EXTINF:0 tvg-id="LA1.es" group-title="ES | TDT",ES: LA 1  FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50657.ts
+#EXTINF:0 tvg-id="LA1.es" group-title="ES | TDT",ES: LA 1  HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3178.ts
+#EXTINF:0 tvg-id="LA1.es" group-title="ES | TDT",ES: LA 1 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3616.ts
+#EXTINF:0 tvg-id="LA1.es" group-title="ES | TDT",ES: LA 1 SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6633.ts
+#EXTINF:0 tvg-id="LA2.es" group-title="ES | TDT",ES: La 2 FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61249.ts
+#EXTINF:0 tvg-id="LA2.es" group-title="ES | TDT",ES: LA 2 HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20154.ts
+#EXTINF:0 tvg-id="LA2.es" group-title="ES | TDT",ES: LA 2 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/29585.ts
+#EXTINF:0 tvg-id="LA2.es" group-title="ES | TDT",ES: LA 2
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3071.ts
+#EXTINF:0 tvg-id="Antena3.es" group-title="ES | TDT",ES: Antena 3 FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61250.ts
+#EXTINF:0 tvg-id="Antena3.es" group-title="ES | TDT",ES: Antena 3 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/30813.ts
+#EXTINF:0 tvg-id="Antena3.es" group-title="ES | TDT",ES: Antena 3 HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3257.ts
+#EXTINF:0 tvg-id="Antena3.es" group-title="ES | TDT",ES: Antena 3 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4357.ts
+#EXTINF:0 tvg-id="Antena3.es" group-title="ES | TDT",ES: Antena 3 SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3610.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: Antena 3 Internacional
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55595.ts
+#EXTINF:0 tvg-id="Cuatro.es" group-title="ES | TDT",ES: Cuatro FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61251.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="ES | TDT",ES: Cuatro FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50658.ts
+#EXTINF:0 tvg-id="Cuatro.es" group-title="ES | TDT",ES: Cuatro HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3072.ts
+#EXTINF:0 tvg-id="Cuatro.es" group-title="ES | TDT",ES: Cuatro HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3765.ts
+#EXTINF:0 tvg-id="Cuatro.es" group-title="ES | TDT",ES: Cuatro SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/17457.ts
+#EXTINF:0 tvg-id="Telecinco.es" group-title="ES | TDT",ES: Telecinco FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61252.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="ES | TDT",ES: Telecinco FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50806.ts
+#EXTINF:0 tvg-id="Telecinco.es" group-title="ES | TDT",ES: Telecinco HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3073.ts
+#EXTINF:0 tvg-id="GaliciaTVEuropa.es" group-title="ES | TDT",ES: Telecinco HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4385.ts
+#EXTINF:0 tvg-id="GaliciaTVEuropa.es" group-title="ES | TDT",ES: Telecinco SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3630.ts
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="ES | TDT",ES: La Sexta FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61253.ts
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="ES | TDT",ES: La Sexta FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50659.ts
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="ES | TDT",ES: La Sexta HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3074.ts
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="ES | TDT",ES: La Sexta HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6632.ts
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="ES | TDT",ES: La Sexta SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3629.ts
+#EXTINF:0 tvg-id="Mega.es" group-title="ES | TDT",ES: Mega FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62686.ts
+#EXTINF:0 tvg-id="Mega.es" group-title="ES | TDT",ES: Mega HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3631.ts
+#EXTINF:0 tvg-id="Mega.es" group-title="ES | TDT",ES: Mega HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4366.ts
+#EXTINF:0 tvg-id="Mega.es" group-title="ES | TDT",ES: Mega SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/11600.ts
+#EXTINF:0 tvg-id="Nova.es" group-title="ES | TDT",ES: Nova HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/18690.ts
+#EXTINF:0 tvg-id="Nova.es" group-title="ES | TDT",ES: Nova (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/11916.ts
+#EXTINF:0 tvg-id="Nova.es" group-title="ES | TDT",ES: Nova
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3339.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: Neox HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/18689.ts
+#EXTINF:0 tvg-id="Neox.es" group-title="ES | TDT",ES: Neox HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/17456.ts
+#EXTINF:0 tvg-id="Neox.es" group-title="ES | TDT",ES: Neox
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3341.ts
+#EXTINF:0 tvg-id="Energy.es" group-title="ES | TDT",ES: Energy HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3641.ts
+#EXTINF:0 tvg-id="Energy.es" group-title="ES | TDT",ES: Energy HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71129.ts
+#EXTINF:0 tvg-id="Energy.es" group-title="ES | TDT",ES: Energy SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71130.ts
+#EXTINF:0 tvg-id="Divinity.es" group-title="ES | TDT",ES: Divinity HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71606.ts
+#EXTINF:0 tvg-id="Divinity.es" group-title="ES | TDT",ES: Divinity HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71607.ts
+#EXTINF:0 tvg-id="Divinity.es" group-title="ES | TDT",ES: Divinity
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3640.ts
+#EXTINF:0 tvg-id="LA1.es" group-title="ES | TDT",ES: Star TVE HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32710.ts
+#EXTINF:0 tvg-id="LA1.es" group-title="ES | TDT",ES: Star TVE
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32711.ts
+#EXTINF:0 tvg-id="ClanTVE.es" group-title="ES | TDT",ES: Clan HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20157.ts
+#EXTINF:0 tvg-id="ClanTVE.es" group-title="ES | TDT",ES: Clan HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62327.ts
+#EXTINF:0 tvg-id="ClanTVE.es" group-title="ES | TDT",ES: Clan
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3403.ts
+#EXTINF:0 tvg-id="LA1.es" group-title="ES | TDT",ES: TVE Internacional
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/53635.ts
+#EXTINF:0 tvg-id="BeMadTV.es" group-title="ES | TDT",ES: BeMad TV HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3633.ts
+#EXTINF:0 tvg-id="BeMadTV.es" group-title="ES | TDT",ES: BeMad TV HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/11911.ts
+#EXTINF:0 tvg-id="BeMadTV.es" group-title="ES | TDT",ES: BeMad TV
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25987.ts
+#EXTINF:0 tvg-id="GOL.es" group-title="ES | TDT",ES: Gol HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/2204.ts
+#EXTINF:0 tvg-id="GOL.es" group-title="ES | TDT",ES: Gol HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4365.ts
+#EXTINF:0 tvg-id="GOL.es" group-title="ES | TDT",ES: Gol
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61184.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="ES | TDT",ES: Teledeporte FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20502.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="ES | TDT",ES: Teledeporte FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52491.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="ES | TDT",ES: Teledeporte HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4386.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="ES | TDT",ES: Teledeporte HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4253.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="ES | TDT",ES: Teledeporte SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3184.ts
+#EXTINF:0 tvg-id="Paramount.es" group-title="ES | TDT",ES: Paramount Channel
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3338.ts
+#EXTINF:0 tvg-id="Boing.es" group-title="ES | TDT",ES: Boing HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71166.ts
+#EXTINF:0 tvg-id="Boing.es" group-title="ES | TDT",ES: Boing HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71167.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="ES | TDT",ES: Boing SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3352.ts
+#EXTINF:0 tvg-id="A3seriesHD.es" group-title="ES | TDT",ES: A3series HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/5578.ts
+#EXTINF:0 tvg-id="A3seriesHD.es" group-title="ES | TDT",ES: A3series HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55594.ts
+#EXTINF:0 tvg-id="A3seriesHD.es" group-title="ES | TDT",ES: A3series SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20905.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: FDF HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71131.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: FDF HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71132.ts
+#EXTINF:0 tvg-id="FDF.es" group-title="ES | TDT",ES: FDF SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3637.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="ES | TDT",ES: Somos HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20152.ts
+#EXTINF:0 tvg-id="Somos.es" group-title="ES | TDT",ES: Somos
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50827.ts
+#EXTINF:0 tvg-id="TEN.es" group-title="ES | TDT",ES: TEN
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4337.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: Televisa HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3075.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="ES | TDT",ES: El Toro TV
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3789.ts
+#EXTINF:0 tvg-id="DMAX.es" group-title="ES | TDT",ES: Dmax HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20899.ts
+#EXTINF:0 tvg-id="DMAX.es" group-title="ES | TDT",ES: Dmax HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3775.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: 24h HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3795.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: 24h
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61183.ts
+#EXTINF:0 tvg-id="Telesur.es" group-title="ES | TDT",ES: Telesur HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4531.ts
+#EXTINF:0 tvg-id="Trece.es" group-title="ES | TDT",ES: Trece
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/11595.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: Canal Costa TV
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/11596.ts
+#EXTINF:0 tvg-id="7tv.es" group-title="ES | TDT",ES: 7 TV Murcia HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20676.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: 7 TV Murcia
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/11908.ts
+#EXTINF:0 tvg-id="324.es" group-title="ES | TDT",ES: Canal Parlamento
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/11909.ts
+#EXTINF:0 tvg-id="Apunt.es" group-title="ES | TDT",ES: À Punt HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20529.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: Canal Málaga
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20511.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: TV Benavente HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20510.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: Onda Algeciras TV
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20504.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: Onda Cádiz
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/38302.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: TeleBilbao
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32457.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: TVG HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32459.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: TVG 2 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32460.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: TVG Infantil HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32461.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: TVG Musigal HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32462.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: TVG Cultura HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32463.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: TVG Momentos G HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32464.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: TVG América HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32465.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: TVG Eventos 1 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/47867.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: TVG Eventos 2 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/47868.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: TVG Eventos 3 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/47869.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: PTV Sevilla
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32119.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: PTV Málaga
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20509.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: PTV Granada
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/38304.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: InterAlmería HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20507.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: Alcarria TV
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20517.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: Canal Diocesano Toledo
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20518.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: Bon Dia TV
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20851.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: Imás TV HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20516.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: Teleonuba TV
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20505.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: Visión 6
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/21667.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: La 7 León
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25185.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: La 8 Zamora
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41829.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: La 8 Valladolid
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/41343.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: La 8 Bierzo
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25768.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: La 8 Burgos
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/31975.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | TDT",ES: La 8 Ávila
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20904.ts
+
+#EXTINF:0 tvg-id="ext" group-title="ES | Estilo de Vida",ES: Nesting TV
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55577.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Estilo de Vida",•●★--- ES Estilo de Vida ----★●•
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6940.ts
+#EXTINF:0 tvg-id="CrimeAndInvestigation.es" group-title="ES | Estilo de Vida",ES: Crime & Investigation
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3638.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="ES | Estilo de Vida",ES: Canal Cocina HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25184.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="ES | Estilo de Vida",ES: Canal Cocina HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32117.ts
+#EXTINF:0 tvg-id="Cocina.es" group-title="ES | Estilo de Vida",ES: Canal Cocina
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4023.ts
+#EXTINF:0 tvg-id="Decasa.es" group-title="ES | Estilo de Vida",ES: Decasa HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/29642.ts
+#EXTINF:0 tvg-id="Decasa.es" group-title="ES | Estilo de Vida",ES: Decasa HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71128.ts
+#EXTINF:0 tvg-id="Decasa.es" group-title="ES | Estilo de Vida",ES: Decasa
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3639.ts
+#EXTINF:0 tvg-id="DKISS.es" group-title="ES | Estilo de Vida",ES: Dkiss
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4047.ts
+
+#EXTINF:0 tvg-id="ext" group-title="ES | Cine",•●★--- ES Movistar+ Cine ----★●•
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6933.ts
+#EXTINF:0 tvg-id="M.Accion.es" group-title="ES | Cine",ES: M. Accion FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25204.ts
+#EXTINF:0 tvg-id="M.Accion.es" group-title="ES | Cine",ES: M. Accion FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50814.ts
+#EXTINF:0 tvg-id="M.Accion.es" group-title="ES | Cine",ES: M. Accion HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3090.ts
+#EXTINF:0 tvg-id="M.Accion.es" group-title="ES | Cine",ES: M. Accion HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3618.ts
+#EXTINF:0 tvg-id="M.Accion.es" group-title="ES | Cine",ES: M. Accion SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4369.ts
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="ES | Cine",ES: M. Comedia FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25203.ts
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="ES | Cine",ES: M. Comedia FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50815.ts
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="ES | Cine",ES: M. Comedia HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3177.ts
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="ES | Cine",ES: M. Comedia HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3762.ts
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="ES | Cine",ES: M. Comedia SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4370.ts
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="ES | Cine",ES: M. Estrenos FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25201.ts
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="ES | Cine",ES: M. Estrenos FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50674.ts
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="ES | Cine",ES: M. Estrenos HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3089.ts
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="ES | Cine",ES: M. Estrenos HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3619.ts
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="ES | Cine",ES: M. Estrenos SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4373.ts
+#EXTINF:0 tvg-id="M.Estrenos2.es" group-title="ES | Cine",ES: M. Estrenos 2 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55576.ts
+#EXTINF:0 tvg-id="M.Estrenos2.es" group-title="ES | Cine",ES: M. Estrenos 2 FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62339.ts
+#EXTINF:0 tvg-id="M.Estrenos2.es" group-title="ES | Cine",ES: M. Estrenos 2 HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55838.ts
+#EXTINF:0 tvg-id="M.Estrenos2.es" group-title="ES | Cine",ES: M. Estrenos 2 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55839.ts
+#EXTINF:0 tvg-id="M.Estrenos2.es" group-title="ES | Cine",ES: M. Estrenos 2 SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55840.ts
+#EXTINF:0 tvg-id="M.Drama.es" group-title="ES | Cine",ES: M. Drama FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25202.ts
+#EXTINF:0 tvg-id="M.Drama.es" group-title="ES | Cine",ES: M. Drama FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50672.ts
+#EXTINF:0 tvg-id="M.Drama.es" group-title="ES | Cine",ES: M. Drama HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3188.ts
+#EXTINF:0 tvg-id="M.Drama.es" group-title="ES | Cine",ES: M. Drama HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6634.ts
+#EXTINF:0 tvg-id="M.Drama.es" group-title="ES | Cine",ES: M. Drama SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3404.ts
+#EXTINF:0 tvg-id="M.Clasicos.es" group-title="ES | Cine",ES: M. Cláscios FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62341.ts
+#EXTINF:0 tvg-id="M.Clasicos.es" group-title="ES | Cine",ES: M. Cláscios FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62342.ts
+#EXTINF:0 tvg-id="M.Clasicos.es" group-title="ES | Cine",ES: M. Cláscios HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56008.ts
+#EXTINF:0 tvg-id="M.Clasicos.es" group-title="ES | Cine",ES: M. Cláscios HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56009.ts
+#EXTINF:0 tvg-id="M.Clasicos.es" group-title="ES | Cine",ES: M. Cláscios SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56010.ts
+#EXTINF:0 tvg-id="DCineEsp.es" group-title="ES | Cine",ES: M. Cine N FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/38303.ts
+#EXTINF:0 tvg-id="DCineEsp.es" group-title="ES | Cine",ES: M. Cine N HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3786.ts
+#EXTINF:0 tvg-id="DCineEsp.es" group-title="ES | Cine",ES: M. Cine N SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/48911.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Cine",ES: M. Cracks HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32100.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Cine",ES: M. Cracks HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20525.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Cine",ES: M. Cracks SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20528.ts
+#EXTINF:0 tvg-id="TCM.es" group-title="ES | Cine",ES: TCM FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62344.ts
+#EXTINF:0 tvg-id="TCM.es" group-title="ES | Cine",ES: TCM FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50817.ts
+#EXTINF:0 tvg-id="TCM.es" group-title="ES | Cine",ES: TCM HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3086.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="ES | Cine",ES: TCM HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4384.ts
+#EXTINF:0 tvg-id="TCM.es" group-title="ES | Cine",ES: TCM SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3621.ts
+#EXTINF:0 tvg-id="Hollywood.es" group-title="ES | Cine",ES: Hollywood FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25197.ts
+#EXTINF:0 tvg-id="Hollywood.es" group-title="ES | Cine",ES: Hollywood FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50671.ts
+#EXTINF:0 tvg-id="Hollywood.es" group-title="ES | Cine",ES: Hollywood HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3088.ts
+#EXTINF:0 tvg-id="Hollywood.es" group-title="ES | Cine",ES: Hollywood HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3620.ts
+#EXTINF:0 tvg-id="Hollywood.es" group-title="ES | Cine",ES: Hollywood SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/31506.ts
+#EXTINF:0 tvg-id="Sundance.es" group-title="ES | Cine",ES: Sundance TV HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20675.ts
+#EXTINF:0 tvg-id="Sundance.es" group-title="ES | Cine",ES: Sundance TV HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/5575.ts
+#EXTINF:0 tvg-id="Sundance.es" group-title="ES | Cine",ES: Sundance TV
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4024.ts
+#EXTINF:0 tvg-id="Dark.es" group-title="ES | Cine",ES: Canal Dark HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6628.ts
+#EXTINF:0 tvg-id="Dark.es" group-title="ES | Cine",ES: Dark Red HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3790.ts
+#EXTINF:0 tvg-id="Dark.es" group-title="ES | Cine",ES: Dark Red SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20501.ts
+#EXTINF:0 tvg-id="XTRM.es" group-title="ES | Cine",ES: XTRM HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/5576.ts
+#EXTINF:0 tvg-id="XTRM.es" group-title="ES | Cine",ES: XTRM
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/31505.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Cine",ES: BOM Cine
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32458.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Cine",ES: MyTime movie network FHD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61222.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Cine",ES: Sofy TV
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61220.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Cine",ES: Comedy Dynamics FHD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61221.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Cine",ES: Rakuten 1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61223.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Cine",ES: Rakuten 2
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61224.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Cine",ES: Rakuten 3
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61225.ts
+
+#EXTINF:0 tvg-id="ext" group-title="ES | Series",•●★--- ES Movistar+ Series ----★●•
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6934.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Series",ES: La Resistencia HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63821.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Series",ES: La Resistencia HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63822.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Series",ES: La Resistencia SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63823.ts
+#EXTINF:0 tvg-id="M.Series.es" group-title="ES | Series",ES: M. Series FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62349.ts
+#EXTINF:0 tvg-id="M.Series.es" group-title="ES | Series",ES: M. Series FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61262.ts
+#EXTINF:0 tvg-id="M.Series.es" group-title="ES | Series",ES: M. Series HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3248.ts
+#EXTINF:0 tvg-id="BomCine.es" group-title="ES | Series",ES: M. Series HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4376.ts
+#EXTINF:0 tvg-id="BomCine.es" group-title="ES | Series",ES: M. Series SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3611.ts
+#EXTINF:0 tvg-id="M.Series2.es" group-title="ES | Series",ES: M. Series 2 FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62702.ts
+#EXTINF:0 tvg-id="BomCine.es" group-title="ES | Series",ES: M. Series 2 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50673.ts
+#EXTINF:0 tvg-id="M.Series2.es" group-title="ES | Series",ES: M. Series 2 HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55835.ts
+#EXTINF:0 tvg-id="M.Series2.es" group-title="ES | Series",ES: M. Series 2 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55836.ts
+#EXTINF:0 tvg-id="M.Series2.es" group-title="ES | Series",ES: M. Series 2 SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55837.ts
+#EXTINF:0 tvg-id="CrimeAndInvestigation.es" group-title="ES | Series",ES: M. Crimen SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/51253.ts
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES | Series",ES: #0 FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52481.ts
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES | Series",ES: #0 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50676.ts
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES | Series",ES: #0 HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3758.ts
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES | Series",ES: #0 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3272.ts
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES | Series",ES: #0 SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4595.ts
+#EXTINF:0 tvg-id="Calle13.es" group-title="ES | Series",ES: Calle 13 FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61258.ts
+#EXTINF:0 tvg-id="Calle13.es" group-title="ES | Series",ES: Calle 13 FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50820.ts
+#EXTINF:0 tvg-id="Calle13.es" group-title="ES | Series",ES: Calle 13 HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3078.ts
+#EXTINF:0 tvg-id="Calle13.es" group-title="ES | Series",ES: Calle 13 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32114.ts
+#EXTINF:0 tvg-id="Calle13.es" group-title="ES | Series",ES: Calle 13
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3627.ts
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="ES | Series",ES: Cosmo TV FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62340.ts
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="ES | Series",ES: Cosmo TV FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50811.ts
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="ES | Series",ES: Cosmo TV HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3347.ts
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="ES | Series",ES: Cosmo TV HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4362.ts
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="ES | Series",ES: Cosmo TV SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3752.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="ES | Series",ES: AMC FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61255.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="ES | Series",ES: AMC FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50677.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="ES | Series",ES: AMC HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3179.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="ES | Series",ES: AMC HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3761.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="ES | Series",ES: AMC SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/17932.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Series",ES: AMC Crime SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71152.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Series",ES: AMC Break FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6627.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Series",ES: AMC Break HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20155.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Series",ES: AMC Break SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71153.ts
+#EXTINF:0 tvg-id="Fox.es" group-title="ES | Series",ES: Fox FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62347.ts
+#EXTINF:0 tvg-id="Fox.es" group-title="ES | Series",ES: Fox FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50812.ts
+#EXTINF:0 tvg-id="Fox.es" group-title="ES | Series",ES: Fox HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3076.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="ES | Series",ES: Fox HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3628.ts
+#EXTINF:0 tvg-id="Fox.es" group-title="ES | Series",ES: Fox SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4662.ts
+#EXTINF:0 tvg-id="AXNhd.es" group-title="ES | Series",ES: AXN FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61256.ts
+#EXTINF:0 tvg-id="AXNhd.es" group-title="ES | Series",ES: AXN FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50679.ts
+#EXTINF:0 tvg-id="AXNhd.es" group-title="ES | Series",ES: AXN HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3081.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="ES | Series",ES: AXN HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3625.ts
+#EXTINF:0 tvg-id="AXNhd.es" group-title="ES | Series",ES: AXN SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4661.ts
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="ES | Series",ES: AXN White FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61257.ts
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="ES | Series",ES: AXN White FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50678.ts
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="ES | Series",ES: AXN White HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3079.ts
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="ES | Series",ES: AXN White HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4358.ts
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="ES | Series",ES: AXN White SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3626.ts
+#EXTINF:0 tvg-id="TNT.es" group-title="ES | Series",ES: TNT FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62345.ts
+#EXTINF:0 tvg-id="TNT.es" group-title="ES | Series",ES: TNT FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50819.ts
+#EXTINF:0 tvg-id="TNT.es" group-title="ES | Series",ES: TNT HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3336.ts
+#EXTINF:0 tvg-id="TNT.es" group-title="ES | Series",ES: TNT HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4387.ts
+#EXTINF:0 tvg-id="TNT.es" group-title="ES | Series",ES: TNT SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3606.ts
+#EXTINF:0 tvg-id="Scifi.es" group-title="ES | Series",ES: SyFy FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62343.ts
+#EXTINF:0 tvg-id="Scifi.es" group-title="ES | Series",ES: SyFy FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50675.ts
+#EXTINF:0 tvg-id="Scifi.es" group-title="ES | Series",ES: SyFy HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3337.ts
+#EXTINF:0 tvg-id="Scifi.es" group-title="ES | Series",ES: SYFY HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4383.ts
+#EXTINF:0 tvg-id="Scifi.es" group-title="ES | Series",ES: SyFy SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3753.ts
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="ES | Series",ES: Comedy Central FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62346.ts
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="ES | Series",ES: Comedy Central FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50810.ts
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="ES | Series",ES: Comedy Central HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3275.ts
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="ES | Series",ES: Comedy Central HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4361.ts
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="ES | Series",ES: Comedy Central SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3609.ts
+#EXTINF:0 tvg-id="MTVEsp.es" group-title="ES | Series",ES: MTV Espana
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3342.ts
+
+#EXTINF:0 tvg-id="ext" group-title="ES | Documentales",•●★--- ES Documentales ----★●•
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6941.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES | Documentales",ES: National Geoghraphic FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25192.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES | Documentales",ES: National Geoghraphic FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50822.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES | Documentales",ES: National Geoghraphic HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3243.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES | Documentales",ES: National Geoghraphic HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4379.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES | Documentales",ES: National Geoghraphic SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3613.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES | Documentales",ES: Nat Geo Wild FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25198.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES | Documentales",ES: Nat Geo Wild FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50823.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES | Documentales",ES: Nat Geo Wild HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3244.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES | Documentales",ES: Nat Geo Wild HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3612.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES | Documentales",ES: Nat Geo Wild SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4378.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="ES | Documentales",ES: Discovery Channel HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3346.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="ES | Documentales",ES: Discovery Channel HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32116.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="ES | Documentales",ES: Discovery Channel SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4392.ts
+#EXTINF:0 tvg-id="Odisea.es" group-title="ES | Documentales",ES: Odisea 4K
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/40870.ts
+#EXTINF:0 tvg-id="Odisea.es" group-title="ES | Documentales",ES: Odisea HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4335.ts
+#EXTINF:0 tvg-id="Odisea.es" group-title="ES | Documentales",ES: Odisea HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4380.ts
+#EXTINF:0 tvg-id="Odisea.es" group-title="ES | Documentales",ES: Odisea SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3271.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="ES | Documentales",ES: Historia HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4032.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="ES | Documentales",ES: Historia HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3273.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="ES | Documentales",ES: Historia SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20149.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Documentales",ES: Cazavisión HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/29584.ts
+#EXTINF:0 tvg-id="Cazavision.es" group-title="ES | Documentales",ES: Cazavisión HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20530.ts
+#EXTINF:0 tvg-id="Cazavision.es" group-title="ES | Documentales",ES: Cazavisión
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50264.ts
+
+#EXTINF:0 tvg-id="ext" group-title="ES | Infantil",•●★--- ES Infantil ----★●•
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6939.ts
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="ES | Infantil",ES: Nickelodeon FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62355.ts
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="ES | Infantil",ES: Nickelodeon FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50824.ts
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="ES | Infantil",ES: Nickelodeon HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3245.ts
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="ES | Infantil",ES: Nickelodeon HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4332.ts
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="ES | Infantil",ES: Nickelodeon SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/16819.ts
+#EXTINF:0 tvg-id="NickJunior.es" group-title="ES | Infantil",ES: Nick JR HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20900.ts
+#EXTINF:0 tvg-id="NickJunior.es" group-title="ES | Infantil",ES: Nick JR
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3340.ts
+#EXTINF:0 tvg-id="DisneyJr.es" group-title="ES | Infantil",ES: Disney Junior
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3247.ts
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="ES | Infantil",ES: Disney Channel FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4391.ts
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="ES | Infantil",ES: Disney Channel FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50825.ts
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="ES | Infantil",ES: Disney Channel HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4266.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="ES | Infantil",ES: Disney Channel HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4363.ts
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="ES | Infantil",ES: Disney Channel SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3246.ts
+#EXTINF:0 tvg-id="Dreamworks.es" group-title="ES | Infantil",ES: DreamWorks FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62688.ts
+#EXTINF:0 tvg-id="Dreamworks.es" group-title="ES | Infantil",ES: DreamWorks HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52493.ts
+#EXTINF:0 tvg-id="Dreamworks.es" group-title="ES | Infantil",ES: DreamWorks HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52808.ts
+#EXTINF:0 tvg-id="Dreamworks.es" group-title="ES | Infantil",ES: DreamWorks SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52809.ts
+#EXTINF:0 tvg-id="Panda.es" group-title="ES | Infantil",ES: Canal Panda HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/11917.ts
+#EXTINF:0 tvg-id="Panda.es" group-title="ES | Infantil",ES: Canal Panda
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3642.ts
+#EXTINF:0 tvg-id="BabyTV.es" group-title="ES | Infantil",ES: Baby TV
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4255.ts
+#EXTINF:0 tvg-id="Super3.es" group-title="ES | Infantil",ES: Super3
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/11592.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Infantil",ES: Pequeradio TV
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4267.ts
+
+#EXTINF:0 tvg-id="ext" group-title="ES | Autonómicas",•●★--- ES Autonómicas ----★●•
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6936.ts
+#EXTINF:0 tvg-id="TV3.es" group-title="ES | Autonómicas",ES: TV3 HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50601.ts
+#EXTINF:0 tvg-id="TV3.es" group-title="ES | Autonómicas",ES: TV3 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20898.ts
+#EXTINF:0 tvg-id="TV3.es" group-title="ES | Autonómicas",ES: TV3 CAT
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20519.ts
+#EXTINF:0 tvg-id="TV3.es" group-title="ES | Autonómicas",ES: TV3. CAT HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3080.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Autonómicas",ES: Betevé CAT
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20605.ts
+#EXTINF:0 tvg-id="324.es" group-title="ES | Autonómicas",ES: 3/24 CAT FHD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/5577.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Autonómicas",ES: 33 CAT
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3634.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Autonómicas",ES: teve.cat HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/40867.ts
+#EXTINF:0 tvg-id="CanalSur1.es" group-title="ES | Autonómicas",ES: Canal Sur HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20156.ts
+#EXTINF:0 tvg-id="CanalSurAndalucia.es" group-title="ES | Autonómicas",ES: Canal Sur Andalucía HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20500.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Autonómicas",ES: Canal Sur 2 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6625.ts
+#EXTINF:0 tvg-id="Telemadrid.es" group-title="ES | Autonómicas",ES: TeleMadrid HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20150.ts
+#EXTINF:0 tvg-id="Telemadrid.es" group-title="ES | Autonómicas",ES: TeleMadrid HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/29643.ts
+#EXTINF:0 tvg-id="Telemadrid.es" group-title="ES | Autonómicas",ES: TeleMadrid
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/11597.ts
+#EXTINF:0 tvg-id="Euronews.nws" group-title="ES | Autonómicas",ES: Euronews HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/37158.ts
+#EXTINF:0 tvg-id="DeutscheWelleEN.de" group-title="ES | Autonómicas",ES: DW en Español
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/11915.ts
+#EXTINF:0 tvg-id="HispanTV.es" group-title="ES | Autonómicas",ES: Hispan TV
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/11913.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="ES | Autonómicas",ES: ETB 1 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4338.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Autonómicas",ES: ETB 2 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/19927.ts
+#EXTINF:0 tvg-id="ETBBasque.es" group-title="ES | Autonómicas",ES: ETB Basque
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/19928.ts
+#EXTINF:0 tvg-id="GaliciaTVEuropa.es" group-title="ES | Autonómicas",ES: Galicia TV
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3077.ts
+#EXTINF:0 tvg-id="ExtremaduraSAT.es" group-title="ES | Autonómicas",ES: Extremadura TV
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3406.ts
+#EXTINF:0 tvg-id="AragonTVsat.es" group-title="ES | Autonómicas",ES: Aragon TV
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3343.ts
+#EXTINF:0 tvg-id="CMM.es" group-title="ES | Autonómicas",ES: Castilla La Mancha Media
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3797.ts
+#EXTINF:0 tvg-id="LaOtra.es" group-title="ES | Autonómicas",ES: La Otra
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/11598.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Autonómicas",ES: NORTEvisión
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/30042.ts
+
+#EXTINF:0 tvg-id="ext" group-title="ES | Música",•●★--- ES Música ----★●•
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6938.ts
+#EXTINF:0 tvg-id="M.Fest.es" group-title="ES | Música",ES: M. Fest FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63799.ts
+#EXTINF:0 tvg-id="M.Fest.es" group-title="ES | Música",ES: M. Fest FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62351.ts
+#EXTINF:0 tvg-id="M.Fest.es" group-title="ES | Música",ES: M. Fest HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55605.ts
+#EXTINF:0 tvg-id="M.Fest.es" group-title="ES | Música",ES: M. Fest HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55606.ts
+#EXTINF:0 tvg-id="M.Fest.es" group-title="ES | Música",ES: M. Fest SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55607.ts
+#EXTINF:0 tvg-id="SolMusica.sp" group-title="ES | Música",ES: Sol Music
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20153.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Música",ES: MTV 00s
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32712.ts
+#EXTINF:0 tvg-id="VH1.es" group-title="ES | Música",ES: VH1 Classic
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6630.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Música",ES: Cadena Elite
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/17582.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Música",ES: HIT TV
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52494.ts
+#EXTINF:0 tvg-id="MezzoLiveHD.es" group-title="ES | Música",ES: Mezzo Live FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62338.ts
+#EXTINF:0 tvg-id="Mezzo.es" group-title="ES | Música",ES: Mezzo Live HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3788.ts
+#EXTINF:0 tvg-id="MezzoLiveHD.es" group-title="ES | Música",ES: Mezzo Live HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/16820.ts
+#EXTINF:0 tvg-id="Mezzo.es" group-title="ES | Música",ES: Mezzo
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4269.ts
+#EXTINF:0 tvg-id="Classica.es" group-title="ES | Música",ES: Classica
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/31508.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Música",ES: Molahits TV
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/12001.ts
+
+#EXTINF:0 tvg-id="ext" group-title="ES | Canales a la carta",•●★--- ES Canales a la carta ----★●•
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6937.ts
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="ES | Canales a la carta",ES: Caza y Pesca FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52482.ts
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="ES | Canales a la carta",ES: Caza y Pesca FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50828.ts
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="ES | Canales a la carta",ES: Caza y Pesca HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3348.ts
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="ES | Canales a la carta",ES: Caza y Pesca HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4406.ts
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="ES | Canales a la carta",ES: Caza y Pesca SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/31507.ts
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="ES | Canales a la carta",ES: Toros FHD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25190.ts
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="ES | Canales a la carta",ES: Toros FHD (Fibra)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50808.ts
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="ES | Canales a la carta",ES: Toros HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3183.ts
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="ES | Canales a la carta",ES: Toros HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6636.ts
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="ES | Canales a la carta",ES: Toros
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4268.ts
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="ES | Canales a la carta",ES: Iberalia FHD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32118.ts
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="ES | Canales a la carta",ES: Iberalia
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3791.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Canales a la carta",ES: Movistar Alquiler 1
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/7577.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Canales a la carta",ES: Movistar Alquiler 2
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/7578.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Canales a la carta",ES: Movistar Alquiler 3
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/7579.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Canales a la carta",ES: Movistar Alquiler 4
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/7580.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Canales a la carta",ES: Movistar Alquiler 5
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/7581.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Canales a la carta",ES: Movistar Alquiler 6
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/7582.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Canales a la carta",ES: Movistar Alquiler 7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/7583.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Canales a la carta",ES: Movistar Alquiler 8
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/7584.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Canales a la carta",ES: Movistar Alquiler 9
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/7585.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Canales a la carta",ES: Movistar Alquiler 10
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/7586.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Canales a la carta",ES: Movistar Alquiler 11
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/7587.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | Canales a la carta",ES: Movistar Alquiler 12
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/7588.ts
+
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: 24/7 La Casa de Papel (ES)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/68163.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: En Tierra Hostil HD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56379.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: 091 Alerta Policia HD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56380.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Policías en Acción HD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56381.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Empeños a lo Bestia HD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56382.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Forjado a Fuego HD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56383.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: El Encantador de Perros HD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56384.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Españoles En El Mundo HD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56385.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Quien vive ahi HD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56386.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Los cazadores de mitos HD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56387.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Wild Frank HD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56388.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Amazonas Clandestino HD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56389.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Callejeros 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56390.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Callejeros Viajeros 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56391.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Cuarto Milenio HD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56392.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: La Que se Avecina 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56393.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: La Biblia Series HD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56394.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Pippi Calzaslargas 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56395.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Heroes Mitologicos 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56436.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: The Blacklist 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56884.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Élite 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56885.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: La Reina del Flow 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56886.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Wpt 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56887.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Xena La Princesa Guerrera 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56396.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: El Principe de Bel Air Temp 1 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56397.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: El Principe de Bel Air Temp 2 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56398.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: El Principe de Bel Air Temp 3 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56399.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: El Principe de Bel Air Temp 4 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56400.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: El Principe de Bel Air Temp 5 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56401.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: El Principe de Bel Air Temp 6 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56402.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Expedientes X Temp 1 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56403.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Expedientes X Temp 2 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56404.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Expedientes X Temp 3 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56405.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Expedientes X Temp 4 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56406.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Expedientes X Temp 5 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56407.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Los Simpsons Temp 1-5 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56408.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Los Simpsons HD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56409.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Los Simpsons La casa-árbol del terror SD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56410.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Los Simpsons La casa-árbol del terror HD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56411.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Futurama 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56412.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Futurama HD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56413.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Padre de Familia 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56414.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Ben Y Holly 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56415.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Fabulas de Disney 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56416.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Patrulla Canina 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56417.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Vaca y Pollito 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56418.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Super Wings 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56419.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: El Bebé Jefazo (Vuelta al curro) 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56420.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Wabbit 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56421.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Kim Possible SD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56422.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Kim Possible HD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56423.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Lilo y Stitch SD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56424.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Lilo y Stitch HD 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56425.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Caballeros del Zodiaco Torneo Galactico SD (1-40) 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56426.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Caballeros del Zodiaco Torneo Galactico HD (1-40) 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56427.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Caballeros del Zodiaco Santuario SD (41-73) 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56428.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Caballeros del Zodiaco Santuario HD (41-73) 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56429.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Caballeros del Zodiaco Asgard SD (74-99) 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56430.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Caballeros del Zodiaco Asgard HD (74-99) 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56431.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Caballeros del Zodiaco Poseidon SD (100-114) 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56432.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Caballeros del Zodiaco Poseidon HD (100-114) 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56433.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Caballeros del Zodiaco Hades SD (115-145) 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56434.ts
+#EXTINF:0 tvg-id="ext" group-title="ES | 24/7",ES: Caballeros del Zodiaco Hades HD (115-145) 24/7
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56435.ts
+#EXTINF:0 tvg-id="M.LaLiga.es" group-title="H.265 Spain",ES: M. LaLiga FHD (HEVC)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52484.ts
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="H.265 Spain",ES: M Liga de Campeones FHD (HEVC)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25178.ts
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="H.265 Spain",ES: Eurosport 2 FHD (HEVC)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52486.ts
+#EXTINF:0 tvg-id="DAZN_F1.es" group-title="H.265 Spain",ES: M. Dazn F1 FHD (HEVC)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52488.ts
+#EXTINF:0 tvg-id="Golf.es" group-title="H.265 Spain",ES: M. Golf FHD (HEVC)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52490.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="H.265 Spain",ES: Teledeporte FHD (HEVC)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52492.ts
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="H.265 Spain",ES: #0 FHD (HEVC)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25176.ts
+#EXTINF:0 tvg-id="Vamos.es" group-title="H.265 Spain",ES: #Vamos FHD (HEVC)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25179.ts
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="H.265 Spain",ES: M. Deportes FHD (HEVC)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25177.ts
+#EXTINF:0 tvg-id="M.Accion.es" group-title="H.265 Spain",ES: M. Accion FHD (HEVC)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25169.ts
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="H.265 Spain",ES: M. Comedia FHD (HEVC)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25170.ts
+#EXTINF:0 tvg-id="M.Drama.es" group-title="H.265 Spain",ES: M. Drama FHD (HEVC)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25171.ts
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="H.265 Spain",ES: M. Estrenos FHD (HEVC)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25172.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="H.265 Spain",ES: Nat Geo Wild FHD (HEVC)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25180.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="H.265 Spain",ES: National Geoghraphic FHD (HEVC)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25181.ts
+#EXTINF:0 tvg-id="Hollywood.es" group-title="H.265 Spain",ES: Hollywood FHD (HEVC)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25174.ts
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="H.265 Spain",ES: Toros FHD (HEVC)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25183.ts
+#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="BeIN Media Group",US: BeIN Sports ñ HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/30037.ts
+
