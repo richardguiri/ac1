@@ -383,7 +383,7 @@ http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61249.ts
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20154.ts
 #EXTINF:0 tvg-id="" group-title="TDT",LA 2 HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/29585.ts
-#EXTINF:0 tvg-id="LA 2 HD" group-title="TDT"LA 2
+#EXTINF:0 tvg-id="LA 2 HD" group-title="TDT",LA 2
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3071.ts
 #EXTINF:0 tvg-id="Antena 3" group-title="TDT",Antena 3 FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61250.ts
@@ -397,7 +397,7 @@ http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4357.ts
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3610.ts
 #EXTINF:0 tvg-id="ext" group-title="TDT",Antena 3 Internacional
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55595.ts
-#EXTINF:0 tvg-id="CUATRO HD" group-title="TDT"Cuatro FHD (H.265)
+#EXTINF:0 tvg-id="CUATRO HD" group-title="TDT",Cuatro FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61251.ts
 #EXTINF:0 tvg-id="CUATRO HD" group-title="TDT",Cuatro FHD (Fibra)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50658.ts
@@ -409,7 +409,7 @@ http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3765.ts
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/17457.ts
 #EXTINF:0 tvg-id="Telecinco" group-title="TDT",Telecinco FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61252.ts
-#EXTINF:0 tvg-id="Telecinco" group-title="TDT"Telecinco FHD (Fibra)
+#EXTINF:0 tvg-id="Telecinco" group-title="TDT",Telecinco FHD (Fibra)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50806.ts
 #EXTINF:0 tvg-id="Telecinco" group-title="TDT",Telecinco HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3073.ts
@@ -419,9 +419,9 @@ http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4385.ts
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3630.ts
 #EXTINF:0 tvg-id="LaSexta" group-title="TDT",La Sexta FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61253.ts
-#EXTINF:0 tvg-id="LaSexta" group-title="TDT",ES: La Sexta FHD (Fibra)
+#EXTINF:0 tvg-id="LaSexta" group-title="TDT",La Sexta FHD (Fibra)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50659.ts
-#EXTINF:0 tvg-id="LaSexta" group-title="TDT",ES: La Sexta HD (1080P)
+#EXTINF:0 tvg-id="LaSexta" group-title="TDT",La Sexta HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3074.ts
 #EXTINF:0 tvg-id="LaSexta" group-title="TDT",La Sexta HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6632.ts
@@ -453,7 +453,7 @@ http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3641.ts
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71129.ts
 #EXTINF:0 tvg-id="Energy" group-title="TDT",Energy SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71130.ts
-#EXTINF:0 tvg-id="Divinity" group-title="TDT"Divinity HD (1080P)
+#EXTINF:0 tvg-id="Divinity" group-title="TDT",Divinity HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71606.ts
 #EXTINF:0 tvg-id="Divinity" group-title="TDT",Divinity HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71607.ts
@@ -499,11 +499,11 @@ http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3338.ts
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71166.ts
 #EXTINF:0 tvg-id="Boing" group-title="TDT",Boing HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71167.ts
-#EXTINF:0 tvg-id="Boing"" group-title="TDT"Boing SD
+#EXTINF:0 tvg-id="Boing"" group-title="TDT",Boing SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3352.ts
-#EXTINF:0 tvg-id="A3series" group-title="TDT",ES: A3series HD (1080P)
+#EXTINF:0 tvg-id="A3series" group-title="TDT",A3series HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/5578.ts
-#EXTINF:0 tvg-id="A3series" group-title="TDT"A3series HD (720P)
+#EXTINF:0 tvg-id="A3series" group-title="TDT",A3series HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55594.ts
 #EXTINF:0 tvg-id="A3series" group-title="TDT",A3series SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20905.ts
@@ -1729,5 +1729,6 @@ http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42065.ts
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42066.ts
 #EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Clasicos de Disney (Latino)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42067.ts
+
 
 
