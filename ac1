@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
-http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62703.ts
 #EXTINF:0 tvg-id="M+LCAMPEONES"tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="champions",M Liga de Campeones FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25193.ts
 #EXTINF:0 tvg-id="M+LCAMPEONES"tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="champions",M Liga de Campeones FHD (H.265) OP1
@@ -259,6 +258,7 @@ http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4367.ts
 #EXTINF:0 tvg-id="ext" group-title="Deportes",•●★--- ES Movistar+ Deportes ----★●•
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6942.ts
 #EXTINF:0 tvg-id="Multideporte" group-title="Deportes",Multideporte
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62703.ts
 #EXTINF:0 tvg-id="ext" group-title="Deportes",M. Ellas #V HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71168.ts
 #EXTINF:0 tvg-id="ext" group-title="Deportes",M. Ellas #V HD (720P)
@@ -635,99 +635,99 @@ http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3177.ts
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3762.ts
 #EXTINF:0 tvg-id="M+ Comedia HD" group-title="Cine",M. Comedia SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4370.ts
-#EXTINF:0 tvg-id="M.Estrenos.es" group-title="Cine",M. Estrenos FHD (H.265)
+#EXTINF:0 tvg-id="M+ Estrenos" group-title="Cine",M. Estrenos FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25201.ts
-#EXTINF:0 tvg-id="M.Estrenos.es" group-title="Cine", M. Estrenos FHD (Fibra)
+#EXTINF:0 tvg-id="M+ Estrenos" group-title="Cine", M. Estrenos FHD (Fibra)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50674.ts
-#EXTINF:0 tvg-id="M.Estrenos.es" group-title="Cine",M. Estrenos HD (1080P)
+#EXTINF:0 tvg-id="M+ Estrenos" group-title="Cine",M. Estrenos HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3089.ts
-#EXTINF:0 tvg-id="M.Estrenos.es" group-title="Cine",M. Estrenos HD (720P)
+#EXTINF:0 tvg-id="M+ Estrenos" group-title="Cine",M. Estrenos HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3619.ts
-#EXTINF:0 tvg-id="M.Estrenos.es" group-title="Cine",M. Estrenos SD
+#EXTINF:0 tvg-id="M+ Estrenos" group-title="Cine",M. Estrenos SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4373.ts
-#EXTINF:0 tvg-id="M.Estrenos2.es" group-title="Cine",M. Estrenos 2 FHD (Fibra)
+#EXTINF:0 tvg-id="M+ Estrenos 2" group-title="Cine",M. Estrenos 2 FHD (Fibra)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55576.ts
-#EXTINF:0 tvg-id="M.Estrenos2.es" group-title="Cine",M. Estrenos 2 FHD (H.265)
+#EXTINF:0 tvg-id="M+ Estrenos 2" group-title="Cine",M. Estrenos 2 FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62339.ts
-#EXTINF:0 tvg-id="M.Estrenos2.es" group-title="Cine",M. Estrenos 2 HD (1080P)
+#EXTINF:0 tvg-id="M+ Estrenos 2" group-title="Cine",M. Estrenos 2 HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55838.ts
-#EXTINF:0 tvg-id="M.Estrenos2.es" group-title="Cine",M. Estrenos 2 HD (720P)
+#EXTINF:0 tvg-id="M+ Estrenos 2" group-title="Cine",M. Estrenos 2 HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55839.ts
-#EXTINF:0 tvg-id="M.Estrenos2.es" group-title="Cine",M. Estrenos 2 SD
+#EXTINF:0 tvg-id="M+ Estrenos 2" group-title="Cine",M. Estrenos 2 SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55840.ts
-#EXTINF:0 tvg-id="M.Drama.es" group-title="Cine",M. Drama FHD (H.265)
+#EXTINF:0 tvg-id="M+ Drama" group-title="Cine",M. Drama FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25202.ts
-#EXTINF:0 tvg-id="M.Drama.es" group-title="Cine",M. Drama FHD (Fibra)
+#EXTINF:0 tvg-id="M+ Drama" group-title="Cine",M. Drama FHD (Fibra)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50672.ts
 #EXTINF:0 tvg-id="M.Drama.es" group-title="Cine",M. Drama HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3188.ts
-#EXTINF:0 tvg-id="M.Drama.es" group-title="Cine",M. Drama HD (720P)
+#EXTINF:0 tvg-id="M+ Drama" group-title="Cine",M. Drama HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6634.ts
-#EXTINF:0 tvg-id="M.Drama.es" group-title="Cine",M. Drama SD
+#EXTINF:0 tvg-id="M+ Drama" group-title="Cine",M. Drama SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3404.ts
-#EXTINF:0 tvg-id="M.Clasicos.es" group-title="Cine",M. Cláscios FHD (H.265)
+#EXTINF:0 tvg-id="M+ Clásicos" group-title="Cine",M. Cláscios FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62341.ts
-#EXTINF:0 tvg-id="M.Clasicos.es" group-title="Cine",M. Cláscios FHD (Fibra)
+#EXTINF:0 tvg-id="M+ Clásicos" group-title="Cine",M. Cláscios FHD (Fibra)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62342.ts
-#EXTINF:0 tvg-id="M.Clasicos.es" group-title="Cine",M. Cláscios HD (1080P)
+#EXTINF:0 tvg-id="M+ Clásicos" group-title="Cine",M. Cláscios HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56008.ts
-#EXTINF:0 tvg-id="M.Clasicos.es" group-title="Cine",M. Cláscios HD (720P)
+#EXTINF:0 tvg-id="M+ Clásicos" group-title="Cine",M. Cláscios HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56009.ts
-#EXTINF:0 tvg-id="M.Clasicos.es" group-title="Cine",M. Cláscios SD
+#EXTINF:0 tvg-id="M+ Clásicos" group-title="Cine",M. Cláscios SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/56010.ts
-#EXTINF:0 tvg-id="DCineEsp.es" group-title="Cine",M. Cine N FHD (Fibra)
+#EXTINF:0 tvg-id="M+ Cine Español" group-title="Cine",M. Cine N FHD (Fibra)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/38303.ts
-#EXTINF:0 tvg-id="DCineEsp.es" group-title="Cine",M. Cine N HD (720P)
+#EXTINF:0 tvg-id="M+ Cine Español" group-title="Cine",M. Cine N HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3786.ts
-#EXTINF:0 tvg-id="DCineEsp.es" group-title="Cine",Cine N SD
+#EXTINF:0 tvg-id="M+ Cine Español" group-title="Cine",Cine N SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/48911.ts
-#EXTINF:0 tvg-id="ext" group-title="Cine",M. Cracks HD (1080P)
+#EXTINF:0 tvg-id="M+ Cracks" group-title="Cine",M. Cracks HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32100.ts
-#EXTINF:0 tvg-id="ext" group-title="Cine",M. Cracks HD (720P)
+#EXTINF:0 tvg-id="M+ Cracks" group-title="Cine",M. Cracks HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20525.ts
-#EXTINF:0 tvg-id="ext" group-title="Cine",M. Cracks SD
+#EXTINF:0 tvg-id="M+ Cracks" group-title="Cine",M. Cracks SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20528.ts
-#EXTINF:0 tvg-id="TCM.es" group-title="Cine",TCM FHD (H.265)
+#EXTINF:0 tvg-id="TCM" group-title="Cine",TCM FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62344.ts
-#EXTINF:0 tvg-id="TCM.es" group-title="Cine",TCM FHD (Fibra)
+#EXTINF:0 tvg-id="TCM" group-title="Cine",TCM FHD (Fibra)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50817.ts
-#EXTINF:0 tvg-id="TCM.es" group-title="Cine",TCM HD (1080P)
+#EXTINF:0 tvg-id="TCM" group-title="Cine",TCM HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3086.ts
-#EXTINF:0 tvg-id="AMC.es" group-title="Cine",TCM HD (720P)
+#EXTINF:0 tvg-id="TCM" group-title="Cine",TCM HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4384.ts
-#EXTINF:0 tvg-id="TCM.es" group-title="Cine",TCM SD
+#EXTINF:0 tvg-id="TCM" group-title="Cine",TCM SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3621.ts
-#EXTINF:0 tvg-id="Hollywood.es" group-title="Cine",Hollywood FHD (H.265)
+#EXTINF:0 tvg-id="Hollywood" group-title="Cine",Hollywood FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25197.ts
-#EXTINF:0 tvg-id="Hollywood.es" group-title="Cine",Hollywood FHD (Fibra)
+#EXTINF:0 tvg-id="Hollywood" group-title="Cine",Hollywood FHD (Fibra)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50671.ts
 #EXTINF:0 tvg-id="Hollywood.es" group-title="Cine",Hollywood HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3088.ts
-#EXTINF:0 tvg-id="Hollywood.es" group-title="Cine",Hollywood HD (720P)
+#EXTINF:0 tvg-id="Hollywood" group-title="Cine",Hollywood HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3620.ts
-#EXTINF:0 tvg-id="Hollywood.es" group-title="Cine",Hollywood SD
+#EXTINF:0 tvg-id="Hollywood" group-title="Cine",Hollywood SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/31506.ts
-#EXTINF:0 tvg-id="Sundance.es" group-title="Cine",Sundance TV HD (1080P)
+#EXTINF:0 tvg-id="Sundance" group-title="Cine",Sundance TV HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20675.ts
-#EXTINF:0 tvg-id="Sundance.es" group-title="Cine",Sundance TV HD (720P)
+#EXTINF:0 tvg-id="Sundance" group-title="Cine",Sundance TV HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/5575.ts
-#EXTINF:0 tvg-id="Sundance.es" group-title="Cine",Sundance TV
+#EXTINF:0 tvg-id="Sundance" group-title="Cine",Sundance TV
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4024.ts
-#EXTINF:0 tvg-id="Dark.es" group-title="Cine",Canal Dark HD (1080P)
+#EXTINF:0 tvg-id="Dark" group-title="Cine",Canal Dark HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6628.ts
-#EXTINF:0 tvg-id="Dark.es" group-title="Cine",Dark Red HD
+#EXTINF:0 tvg-id="Dark" group-title="Cine",Dark Red HD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3790.ts
-#EXTINF:0 tvg-id="Dark.es" group-title="Cine",Dark Red SD
+#EXTINF:0 tvg-id="Dark" group-title="Cine",Dark Red SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20501.ts
-#EXTINF:0 tvg-id="XTRM.es" group-title="Cine",XTRM HD (1080P)
+#EXTINF:0 tvg-id="XTRM" group-title="Cine",XTRM HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/5576.ts
-#EXTINF:0 tvg-id="XTRM.es" group-title="Cine",XTRM
+#EXTINF:0 tvg-id="XTRM" group-title="Cine",XTRM
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/31505.ts
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="Cine",Somos HD (1080P)
+#EXTINF:0 tvg-id="Somos" group-title="Cine",Somos HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20152.ts
-#EXTINF:0 tvg-id="Somos.es" group-title="Cine",Somos
+#EXTINF:0 tvg-id="Somos" group-title="Cine",Somos
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50827.ts
-#EXTINF:0 tvg-id="ext" group-title="Cine",BOM Cine
+#EXTINF:0 tvg-id="BOM Cine" group-title="Cine",BOM Cine
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32458.ts
 #EXTINF:0 tvg-id="ext" group-title="Cine",MyTime movie network FHD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61222.ts
@@ -735,71 +735,69 @@ http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61222.ts
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61220.ts
 #EXTINF:0 tvg-id="ext" group-title="Cine",Comedy Dynamics FHD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61221.ts
-#EXTINF:0 tvg-id="ext" group-title="Cine",Rakuten 1
+#EXTINF:0 tvg-id="Rakuten 1" group-title="Cine",Rakuten 1
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61223.ts
-#EXTINF:0 tvg-id="ext" group-title="Cine",Rakuten 2
+#EXTINF:0 tvg-id="Rakuten 2" group-title="Cine",Rakuten 2
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61224.ts
-#EXTINF:0 tvg-id="ext" group-title="Cine",Rakuten 3
+#EXTINF:0 tvg-id="Rakuten 3" group-title="Cine",Rakuten 3
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61225.ts
-#EXTINF:0 tvg-id="ext" group-title="Series",•●★--- Movistar+ Series ----★●•
+#EXTINF:0 tvg-id="" group-title="Series",•●★--- Movistar+ Series ----★●•
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6934.ts
-#EXTINF:0 tvg-id="ext" group-title="Series",La Resistencia HD (1080P)
+#EXTINF:0 tvg-id="M+ La Resistencia" group-title="Series",La Resistencia HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63821.ts
-#EXTINF:0 tvg-id="ext" group-title="Series",La Resistencia HD (720P)
+#EXTINF:0 tvg-id="M+ La Resistencia" group-title="Series",La Resistencia HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63822.ts
-#EXTINF:0 tvg-id="ext" group-title="Series",La Resistencia SD
+#EXTINF:0 tvg-id="M+ La Resistencia" group-title="Series",La Resistencia SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/63823.ts
-#EXTINF:0 tvg-id="M.Series.es" group-title="Series",M. Series FHD (H.265)
+#EXTINF:0 tvg-id="M+ Series" group-title="Series",M. Series FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62349.ts
-#EXTINF:0 tvg-id="M.Series.es" group-title="Series",M. Series FHD (Fibra)
+#EXTINF:0 tvg-id="M+ Series" group-title="Series",M. Series FHD (Fibra)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61262.ts
-#EXTINF:0 tvg-id="M.Series.es" group-title="Series",M. Series HD (1080P)
+#EXTINF:0 tvg-id="M+ Series" group-title="Series",M. Series HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3248.ts
-#EXTINF:0 tvg-id="BomCine.es" group-title="Series",M. Series HD (720P)
+#EXTINF:0 tvg-id="M+ Series" group-title="Series",M. Series HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4376.ts
-#EXTINF:0 tvg-id="BomCine.es" group-title="Series",M. Series SD
+#EXTINF:0 tvg-id="M+ Series" group-title="Series",M. Series SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3611.ts
-#EXTINF:0 tvg-id="M.Series2.es" group-title="Series",M. Series 2 FHD (H.265)
+#EXTINF:0 tvg-id="M+ Series 2" group-title="Series",M. Series 2 FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62702.ts
-#EXTINF:0 tvg-id="BomCine.es" group-title="Series",M. Series 2 FHD (Fibra)
+#EXTINF:0 tvg-id="M+ Series 2" group-title="Series",M. Series 2 FHD (Fibra)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50673.ts
-#EXTINF:0 tvg-id="M.Series2.es" group-title="Series",M. Series 2 HD (1080P)
+#EXTINF:0 tvg-id="M+ Series 2" group-title="Series",M. Series 2 HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55835.ts
-#EXTINF:0 tvg-id="M.Series2.es" group-title="Series",M. Series 2 HD (720P)
+#EXTINF:0 tvg-id="M+ Series 2" group-title="Series",M. Series 2 HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55836.ts
-#EXTINF:0 tvg-id="M.Series2.es" group-title="Series",M. Series 2 SD
+#EXTINF:0 tvg-id="M+ Series 2" group-title="Series",M. Series 2 SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55837.ts
-#EXTINF:0 tvg-id="CrimeAndInvestigation.es" group-title="Series",M. Crimen SD
-http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/51253.ts
-#EXTINF:0 tvg-id="Calle13.es" group-title="Series",Calle 13 FHD (H.265)
+#EXTINF:0 tvg-id="Calle13" group-title="Series",Calle 13 FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61258.ts
-#EXTINF:0 tvg-id="Calle13.es" group-title="Series",Calle 13 FHD (Fibra)
+#EXTINF:0 tvg-id="Calle13" group-title="Series",Calle 13 FHD (Fibra)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50820.ts
-#EXTINF:0 tvg-id="Calle13.es" group-title="Series",Calle 13 HD (1080P)
+#EXTINF:0 tvg-id="Calle13" group-title="Series",Calle 13 HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3078.ts
-#EXTINF:0 tvg-id="Calle13.es" group-title="Series",Calle 13 HD (720P)
+#EXTINF:0 tvg-id="Calle13" group-title="Series",Calle 13 HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/32114.ts
-#EXTINF:0 tvg-id="Calle13.es" group-title="Series",Calle 13
+#EXTINF:0 tvg-id="Calle13" group-title="Series",Calle 13
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3627.ts
-#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="Series",Cosmo TV FHD (H.265)
+#EXTINF:0 tvg-id="Cosmo TV" group-title="Series",Cosmo TV FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62340.ts
-#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="Series",Cosmo TV FHD (Fibra)
+#EXTINF:0 tvg-id="Cosmo TV" group-title="Series",Cosmo TV FHD (Fibra)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50811.ts
-#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="Series",Cosmo TV HD (1080P)
+#EXTINF:0 tvg-id="Cosmo TV" group-title="Series",Cosmo TV HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3347.ts
-#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="Series",Cosmo TV HD (720P)
+#EXTINF:0 tvg-id="Cosmo TV" group-title="Series",Cosmo TV HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4362.ts
 #EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="Series",Cosmo TV SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3752.ts
-#EXTINF:0 tvg-id="AMC.es" group-title="Series",AMC FHD (H.265)
+#EXTINF:0 tvg-id="AMC" group-title="Series",AMC FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61255.ts
-#EXTINF:0 tvg-id="AMC.es" group-title="Series",AMC FHD (Fibra)
+#EXTINF:0 tvg-id="AMC" group-title="Series",AMC FHD (Fibra)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50677.ts
-#EXTINF:0 tvg-id="AMC.es" group-title="Series",AMC HD (1080P)
+#EXTINF:0 tvg-id="AMC" group-title="Series",AMC HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3179.ts
-#EXTINF:0 tvg-id="AMC.es" group-title="Series",AMC HD (720P)
+#EXTINF:0 tvg-id="AMC" group-title="Series",AMC HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3761.ts
-#EXTINF:0 tvg-id="AMC.es" group-title="Series",AMC SD
+#EXTINF:0 tvg-id="AMC" group-title="Series",AMC SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/17932.ts
 #EXTINF:0 tvg-id="ext" group-title="Series",AMC Crime SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71152.ts
@@ -819,57 +817,57 @@ http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3076.ts
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3628.ts
 #EXTINF:0 tvg-id="Fox.es" group-title="Series",Fox SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4662.ts
-#EXTINF:0 tvg-id="AXNhd.es" group-title="Series",AXN FHD (H.265)
+#EXTINF:0 tvg-id="AXN" group-title="Series",AXN FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61256.ts
-#EXTINF:0 tvg-id="AXNhd.es" group-title="Series",AXN FHD (Fibra)
+#EXTINF:0 tvg-id="AXN" group-title="Series",AXN FHD (Fibra)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50679.ts
-#EXTINF:0 tvg-id="AXNhd.es" group-title="Series",AXN HD (1080P)
+#EXTINF:0 tvg-id="AXN" group-title="Series",AXN HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3081.ts
-#EXTINF:0 tvg-id="AMC.es" group-title="Series",AXN HD (720P)
+#EXTINF:0 tvg-id="AXN" group-title="Series",AXN HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3625.ts
-#EXTINF:0 tvg-id="AXNhd.es" group-title="Series",AXN SD
+#EXTINF:0 tvg-id="AXN" group-title="Series",AXN SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4661.ts
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="Series",AXN White FHD (H.265)
+#EXTINF:0 tvg-id="AXN White" group-title="Series",AXN White FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/61257.ts
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="Series",AXN White FHD (Fibra)
+#EXTINF:0 tvg-id="AXN White" group-title="Series",AXN White FHD (Fibra)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50678.ts
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="Series",AXN White HD (1080P)
+#EXTINF:0 tvg-id="AXN White" group-title="Series",AXN White HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3079.ts
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="Series",AXN White HD (720P)
+#EXTINF:0 tvg-id="AXN White" group-title="Series",AXN White HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4358.ts
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="Series",AXN White SD
+#EXTINF:0 tvg-id="AXN White" group-title="Series",AXN White SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3626.ts
-#EXTINF:0 tvg-id="TNT.es" group-title="Series",TNT FHD (H.265)
+#EXTINF:0 tvg-id="TNT" group-title="Series",TNT FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62345.ts
-#EXTINF:0 tvg-id="TNT.es" group-title="Series",TNT FHD (Fibra)
+#EXTINF:0 tvg-id="TNT" group-title="Series",TNT FHD (Fibra)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50819.ts
 #EXTINF:0 tvg-id="TNT.es" group-title="Series",TNT HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3336.ts
-#EXTINF:0 tvg-id="TNT.es" group-title="Series",TNT HD (720P)
+#EXTINF:0 tvg-id="TNT" group-title="Series",TNT HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4387.ts
-#EXTINF:0 tvg-id="TNT.es" group-title="Series",TNT SD
+#EXTINF:0 tvg-id="TNT" group-title="Series",TNT SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3606.ts
-#EXTINF:0 tvg-id="Scifi.es" group-title="Series",SyFy FHD (H.265)
+#EXTINF:0 tvg-id="SyFy" group-title="Series",SyFy FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62343.ts
-#EXTINF:0 tvg-id="Scifi.es" group-title="Series",SyFy FHD (Fibra)
+#EXTINF:0 tvg-id="SyFy" group-title="Series",SyFy FHD (Fibra)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50675.ts
-#EXTINF:0 tvg-id="Scifi.es" group-title="Series",SyFy HD (1080P)
+#EXTINF:0 tvg-id="SyFy" group-title="Series",SyFy HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3337.ts
 #EXTINF:0 tvg-id="Scifi.es" group-title="Series",SYFY HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4383.ts
-#EXTINF:0 tvg-id="Scifi.es" group-title="Series",SyFy SD
+#EXTINF:0 tvg-id="SyFy" group-title="Series",SyFy SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3753.ts
-#EXTINF:0 tvg-id="ComedyCentral.es" group-title="Series",Comedy Central FHD (H.265)
+#EXTINF:0 tvg-id="ComedyCentral" group-title="Series",Comedy Central FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/62346.ts
-#EXTINF:0 tvg-id="ComedyCentral.es" group-title="Series",Comedy Central FHD (Fibra)
+#EXTINF:0 tvg-id="ComedyCentral" group-title="Series",Comedy Central FHD (Fibra)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50810.ts
-#EXTINF:0 tvg-id="ComedyCentral.es" group-title="Series",Comedy Central HD (1080P)
+#EXTINF:0 tvg-id="ComedyCentral" group-title="Series",Comedy Central HD (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3275.ts
-#EXTINF:0 tvg-id="ComedyCentral.es" group-title="Series",Comedy Central HD (720P)
+#EXTINF:0 tvg-id="ComedyCentral" group-title="Series",Comedy Central HD (720P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4361.ts
-#EXTINF:0 tvg-id="ComedyCentral.es" group-title="Series",Comedy Central SD
+#EXTINF:0 tvg-id="ComedyCentral" group-title="Series",Comedy Central SD
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3609.ts
-#EXTINF:0 tvg-id="MTVEsp.es" group-title="Series",MTV Espana
+#EXTINF:0 tvg-id="MTV" group-title="Series",MTV Espana
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3342.ts
 #EXTINF:0 tvg-id="ext" group-title="Documentales",•●★--- Documentales ----★●•
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6941.ts
@@ -941,12 +939,14 @@ http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3183.ts
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6636.ts
 #EXTINF:0 tvg-id="Toros"tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="Documentales",Toros
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4268.ts
-#EXTINF:0 tvg-id="Toros" group-title="Documentales",toros FHD (H.265)
+#EXTINF:0 tvg-id="Toros"tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="Documentales",toros FHD (H.265)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25190.ts
 #EXTINF:0 tvg-id="ext" group-title="Estilo de Vida",•●★--- Estilo de Vida ----★●•
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/6940.ts
-#EXTINF:0 tvg-id="CrimeAndInvestigation.es" group-title="Estilo de Vida",Crime & Investigation
+#EXTINF:0 tvg-id="Crime & Investigation" group-title="Estilo de Vida",Crime & Investigation
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3638.ts
+#EXTINF:0 tvg-id="Crime & Investigation" group-title="Estilo de Vida",Crime & Investigation SD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/51253.ts
 #EXTINF:0 tvg-id="Cocina" group-title="Estilo de Vida",Canal Cocina (1080P)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25184.ts
 #EXTINF:0 tvg-id="Teledeporte" group-title="Estilo de Vida", Canal Cocina (720P)
@@ -1729,6 +1729,7 @@ http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42065.ts
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42066.ts
 #EXTINF:0 tvg-id="ext" group-title="24/7 (Movies-Kids-Series)",24/7: Clasicos de Disney (Latino)
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/42067.ts
+
 
 
 
