@@ -104,7 +104,7 @@ http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0glXrjtt_wEWnRuhmxn7
 http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0giV1eTU8K6C1fwYrC-LPNwdx_kyhanoMqMnMkkqdV029
 #EXTINF:-1 xui-id="109459" tvg-id="" tvg-name="|F1TV| Data Channel" tvg-logo="" group-title="FORMULA 1",|F1TV| Data Channel
 http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0giV1eTU8K6C1fwYrC-LPNwc5usbcj2B6Kjw4hEOtMHte
-#EXTINF:-1 xui-id="109460" tvg-id="" tvg-name="|F1TV| Driver Tracker Channel" tvg-logo="" group-title="ESPANA - FORMULA 1",|F1TV| Driver Tracker Channel
+#EXTINF:-1 xui-id="109460" tvg-id="" tvg-name="|F1TV| Driver Tracker Channel" tvg-logo="" group-title="FORMULA 1",|F1TV| Driver Tracker Channel
 http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0giV1eTU8K6C1fwYrC-LPNwdC2O9FjTY3_njkp4Hf1Eht
 #EXTINF:-1 xui-id="109461" tvg-id="" tvg-name="|F1TV| Pit Lane Channel" tvg-logo="" group-title="FORMULA 1",|F1TV| Pit Lane Channel
 http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0giV1eTU8K6C1fwYrC-LPNwdt57yLHFBlkhmkgjh--ANZ
@@ -166,9 +166,9 @@ http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0gmH5l42ztYt4qXCTcf2
 http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0gmH5l42ztYt4qXCTcf2ZFeOVg6ZljVJOr7hg5ETgAYtw
 #EXTINF:-1 xui-id="48605" tvg-id="M+ #VAMOS" tvg-name="MOVISTAR VAMOS" tvg-logo="http://protocol.solanaflix.com:8080/images/c56f7ced3ca9acb742698b73c40b0aed.png" group-title="DEPORTES",MOVISTAR VAMOS
 http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0gmH5l42ztYt4qXCTcf2ZFeMxMNZL_ZX5ZHnctX3ghegn
-#EXTINF:-1 xui-id="109433" tvg-id="" tvg-name="M+ #ELLAS " tvg-logo="" group-title="ESPANA - DEPORTES",|ES| M+ELLAS #V FHD
+#EXTINF:-1 xui-id="109433" tvg-id="" tvg-name="M+ #ELLAS " tvg-logo="" group-title="DEPORTES",M+ELLAS #V FHD
 http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0giV1eTU8K6C1fwYrC-LPNwfL7W4TQ3Y8_1Ujd60wpYLd
-#EXTINF:-1 xui-id="109434" tvg-id="" tvg-name="M+ #ELLAS" tvg-logo="" group-title="ESPANA - DEPORTES",|ES| M+ ELLAS #V
+#EXTINF:-1 xui-id="109434" tvg-id="" tvg-name="M+ #ELLAS" tvg-logo="" group-title="DEPORTES",M+ ELLAS #V
 http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0giV1eTU8K6C1fwYrC-LPNwezoQT4eF0FkK3NWvx74wjV
 #EXTINF:-1 xui-id="48526" tvg-id="M+ Deportes" tvg-name="M+ DEPORTE FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/e3db432d2c1e957261e5d0222cb2f2b4.png" group-title="DEPORTES",MOVISTAR DEPORTE FHD
 http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0gmH5l42ztYt4qXCTcf2ZFePKz-Z9xA5bHNve-xgnH0X-
@@ -246,7 +246,7 @@ http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0gvfaqMTnu5opfo2V_RI
 http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0gvfaqMTnu5opfo2V_RI9pyJwUjPSdZbmLWbCfT7NcKKB
 #EXTINF:-1 xui-id="110839" tvg-id="" tvg-name="Insports 20 FHD (Solo Eventos)" tvg-logo="" group-title="FOOTTERS",Insports 20 FHD (Solo Eventos)
 http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0gvfaqMTnu5opfo2V_RI9pyLZqV-TziVM2ad_onlsQ8kW
-#EXTINF:-1 xui-id="110840" tvg-id="" tvg-name="Insports 21 FHD (Solo Eventos)" tvg-logo="" group-title="ESPANA - FOOTTERS",Insports 21 FHD (Solo Eventos)
+#EXTINF:-1 xui-id="110840" tvg-id="" tvg-name="Insports 21 FHD (Solo Eventos)" tvg-logo="" group-title="FOOTTERS",Insports 21 FHD (Solo Eventos)
 http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0gvfaqMTnu5opfo2V_RI9pyJO1icYEk8I95dH1zE23yhO
 #EXTINF:-1 xui-id="110841" tvg-id="" tvg-name="Insports 22 FHD (Solo Eventos)" tvg-logo="" group-title="FOOTTERS",Insports 22 FHD (Solo Eventos)
 http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0gvfaqMTnu5opfo2V_RI9pyJe6p98ANGlaWx7liGm0dGe
@@ -498,7 +498,7 @@ http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0gmH5l42ztYt4qXCTcf2
 http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0gmH5l42ztYt4qXCTcf2ZFeNowH-IGRhDLE2bbYxvessf
 #EXTINF:-1 xui-id="48481" tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://protocol.solanaflix.com:8080/images/a4a3ecd7e4d08a420123ca06b36e3673.png" group-title="documentales",DISCOVERY CHANNEL
 http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0gmH5l42ztYt4qXCTcf2ZFeOMUx379Pl9xgd1anUWqnH6
-#EXTINF:-1 xui-id="110575" tvg-id="" tvg-name="ODISEA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/52b70868846523bdd40fbee724601f08.png" group-title="ESPANA -  CULTURA",|ES| ODISEA FHD
+#EXTINF:-1 xui-id="110575" tvg-id="" tvg-name="ODISEA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/52b70868846523bdd40fbee724601f08.png" group-title="documentales",ODISEA FHD
 http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0gvfaqMTnu5opfo2V_RI9pyLRthOf4LfM79huzlrhMyY4
 #EXTINF:-1 xui-id="48482" tvg-id="ODISEA" tvg-name="ODISEA" tvg-logo="http://protocol.solanaflix.com:8080/images/52b70868846523bdd40fbee724601f08.png" group-title="documentales",ODISEA
 http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0gmH5l42ztYt4qXCTcf2ZFeM50I2XHKq0IJ01iNgYnZJL
