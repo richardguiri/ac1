@@ -23,7 +23,7 @@ http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/351
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3793
 #EXTINF:-1 tvg-id="01tv.fr" tvg-name="CUATRO 4K" tvg-logo="" group-title="tv",CUATRO 4K
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26153
-#EXTINF:-1 tvg-id="01tv.fr" tvg-name="TELECINCO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",TELECINCO HD
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="TELECINCO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="tv",TELECINCO HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/374
 #EXTINF:-1 tvg-id="" tvg-name="TELECINCO FULL HD" tvg-logo="" group-title="tv",TELECINCO FULL HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3814
@@ -53,8 +53,7 @@ http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/380
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27213
 #EXTINF:-1 tvg-id="" tvg-name="Malaga 24h Noticias" tvg-logo="" group-title="tv",Malaga 24h Noticias
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27177
-#EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="tv",BE MAD HD
-http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/385
+
 #EXTINF:-1 tvg-id="" tvg-name="BE MAD FULL HD" tvg-logo="" group-title="tv",BE MAD FULL HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3824
 #EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="tv",COSMO HD
@@ -88,6 +87,8 @@ http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25858
 #EXTINF:-1 tvg-id="" tvg-name="BeMad tv HD" tvg-logo="" group-title="tv",BeMad tv HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25870
 #EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",BE MAD HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/385
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="tv",BE MAD HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/385
 #EXTINF:-1 tvg-id="" tvg-name="atreseries HD" tvg-logo="" group-title="tv",atreseries HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25865
@@ -157,7 +158,7 @@ http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27190
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3835
 #EXTINF:-1 tvg-id="" tvg-name="COSMO FULL HD" tvg-logo="" group-title="vida",COSMO FULL HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3834
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",CANAL COCINA
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="vida",CANAL COCINA
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/397
 #EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA FULL HD" tvg-logo="" group-title="vida",CANAL COCINA FULL HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3827
@@ -211,11 +212,11 @@ http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3849
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27164
 #EXTINF:-1 tvg-id="" tvg-name="LigaSmartBankHD FULL HD" tvg-logo="" group-title="Liga",LigaSmartBankHD FULL HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27166
-#EXTINF:-1 tvg-id="" tvg-name="Liga SmartBank 2" tvg-logo="" group-title="Movistar",Liga SmartBank 2
+#EXTINF:-1 tvg-id="" tvg-name="Liga SmartBank 2" tvg-logo="" group-title="Liga",Liga SmartBank 2
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27194
-#EXTINF:-1 tvg-id="" tvg-name="Liga SmartBank 2 FULL HD" tvg-logo="" group-title="Movistar",Liga SmartBank 2 FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Liga SmartBank 2 FULL HD" tvg-logo="" group-title="Liga",Liga SmartBank 2 FULL HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27196
-#EXTINF:-1 tvg-id="" tvg-name="Liga SmartBank 3" tvg-logo="" group-title="Movistar",Liga SmartBank 3
+#EXTINF:-1 tvg-id="" tvg-name="Liga SmartBank 3" tvg-logo="" group-title="Liga",Liga SmartBank 3
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27195
 #EXTINF:-1 tvg-id="" tvg-name="Liga SmartBank 3 FULL HD" tvg-logo="" group-title="Liga",Liga SmartBank 3 FULL HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27197
@@ -285,7 +286,7 @@ http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/440
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26081
 #EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 4 (SOLO EVENTOS)" tvg-logo="" group-title="champions",M+ LCAMPEONES 4 (SOLO EVENTOS)
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/441
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 4 FULL HD (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 4 FULL HD (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 4 FULL HD (SOLO EVENTOS)" tvg-logo="" group-title="champions",M+ LCAMPEONES 4 FULL HD (SOLO EVENTOS)
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26082
 #EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 5 (SOLO EVENTOS)" tvg-logo="" group-title="champions",M+ LCAMPEONES 5 (SOLO EVENTOS)
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/442
@@ -494,11 +495,11 @@ http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3812
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27180
 #EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="cine",CALLE 13 HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/350
-#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 FULL HD" tvg-logo="" group-title="Movistar",CALLE 13 FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 FULL HD" tvg-logo="" group-title="cine",CALLE 13 FULL HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3792
 #EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="cine",PARAMOUNT
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/454
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT FULL HD" tvg-logo="" group-title="Movistar",PARAMOUNT FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT FULL HD" tvg-logo="" group-title="cine",PARAMOUNT FULL HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3855
 #EXTINF:-1 tvg-id="01tv.fr" tvg-name="HOLLYWOOD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="cine",HOLLYWOOD HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/354
@@ -660,7 +661,7 @@ http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26311
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26312
 #EXTINF:-1 tvg-id="" tvg-name="Netflix 9" tvg-logo="" group-title="carta",Netflix 9
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26313
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 10" tvg-logo="" group-title="Movistar",Netflix 10
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 10" tvg-logo="" group-title="carta",Netflix 10
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26314
 #EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 1" tvg-logo="" group-title="carta",New Alquiler 4K 1
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26182
