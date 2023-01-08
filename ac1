@@ -86,7 +86,7 @@ http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25866
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25858
 #EXTINF:-1 tvg-id="" tvg-name="BeMad tv HD" tvg-logo="" group-title="tv",BeMad tv HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25870
-#EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",BE MAD HD
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="tv",BE MAD HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/385
 #EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="tv",BE MAD HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/385
@@ -539,11 +539,11 @@ http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/451
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3852
 EXTINF:-1 tvg-id="mdisney.es" tvg-name="DISNEY CH HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="infantil",DISNEY CH HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/434
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CH FULL HD" tvg-logo="" group-title="Movistar",DISNEY CH FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CH FULL HD" tvg-logo="" group-title="infantiL",DISNEY CH FULL HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3837
 #EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="infantil"",DISNEY JR
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/410
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR FULL HD" tvg-logo="" group-title="infantil"",DISNEY JR FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR FULL HD" tvg-logo="" group-title="infantiL",DISNEY JR FULL HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3838
 #EXTINF:-1 tvg-id="clantve.es" tvg-name="CLAN  TVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="infantil"",CLAN  TVE
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/403
