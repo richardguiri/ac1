@@ -53,7 +53,6 @@ http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/380
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27213
 #EXTINF:-1 tvg-id="" tvg-name="Malaga 24h Noticias" tvg-logo="" group-title="tv",Malaga 24h Noticias
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27177
-
 #EXTINF:-1 tvg-id="" tvg-name="BE MAD FULL HD" tvg-logo="" group-title="tv",BE MAD FULL HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3824
 #EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="tv",COSMO HD
@@ -137,9 +136,9 @@ http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/420
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV FULL HD" tvg-logo="" group-title="documentales",IBERALIA TV FULL HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3845
 #EXTINF:-1 tvg-id="toros.es" tvg-name="TOROS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="documentales",TOROS HD
-http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/376.ts?h=d9db1e823f366e5d163824a7d1eb0201&i=79.116.70.99&s=1661361782
+http://gho78prekqd2liaybsmd5r.esp.noaccesss.me:25461/live/smMf1DutvN/6125758821/376.ts?h=d9db1e823f366e5d163824a7d1eb0201&i=79.116.70.99&s=1661361782
 #EXTINF:-1 tvg-id="" tvg-name="TOROS FULL HD" tvg-logo="" group-title="documentales",TOROS FULL HD
-http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3816
+http://gho78prekqd2liaybsmd5r.esp.noaccesss.me:25461/live/smMf1DutvN/6125758821/3816
 #EXTINF:-1 tvg-id="" tvg-name="TOROS 4K" tvg-logo="" group-title="documentales",TOROS 4K
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26276
 #EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NG WILD HD" tvg-logo="" group-title="documentales",NG WILD HD
@@ -873,3 +872,151 @@ http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26216
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26217
 #EXTINF:-1 tvg-id="" tvg-name="Cinelatino HD 7" tvg-logo="" group-title="carta",Cinelatino HD 7
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26218
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ana" tvg-logo="" group-title="24/7",24/7 Ana
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26595
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Alerta Aeropuerto" tvg-logo="" group-title="24/7",24/7 Alerta Aeropuerto
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26596
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Altered Carbon" tvg-logo="" group-title="24/7",24/7 Altered Carbon
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26597
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Bang" tvg-logo="" group-title="24/7",24/7 Big Bang
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26599
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Juego de tronos" tvg-logo="https://freakland.es/7013/poster-juego-de-tronos-jon-for-the-throne.jpg" group-title="24/7",24/7 Juego de tronos
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26404
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jessica Jones" tvg-logo="https://fr.web.img4.acsta.net/pictures/19/06/18/12/07/2217403.jpg" group-title="24/7",24/7 Jessica Jones
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26405
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Narcos" tvg-logo="https://fr.web.img6.acsta.net/pictures/15/07/29/14/33/086520.jpg" group-title="24/7",24/7 Narcos
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26406
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Absentia" tvg-logo="https://fr.web.img2.acsta.net/pictures/19/04/30/14/53/5790436.jpg" group-title="24/7",24/7 Absentia
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26346
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Beowulf Return to the Shieldlands" tvg-logo="https://media.senscritique.com/media/000012273283/source_big/Beowulf_Return_to_the_Shieldlands.jpg" group-title="24/7",24/7 Beowulf Return to the Shieldlands
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26347
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Black Sails" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TvTiBOfVL._AC_SL1500_.jpg" group-title="24/7",24/7 Black Sails
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26348
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bolivar" tvg-logo="https://pics.filmaffinity.com/Bolivar_the_Man_the_Legend_TV_Series-862404934-large.jpg" group-title="24/7",24/7 Bolivar
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26349
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La casa de papel" tvg-logo="https://carnetparisien.files.wordpress.com/2018/04/la_casa_de_papel1.jpg" group-title="24/7",24/7 La casa de papel
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26356
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hawaii 5-0" tvg-logo="https://fr.web.img5.acsta.net/pictures/18/11/23/11/34/5643417.jpg" group-title="24/7",24/7 Hawaii 5-0
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26357
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Wu Assassins" tvg-logo="https://i0.wp.com/deluxevideoonline.org/wp-content/uploads/2019/08/wu-poster.jpg?fit=426%2C597&ssl=1" group-title="24/7",24/7 Wu Assassins
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26361
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NCIS Criminologia Naval" tvg-logo="https://fr.web.img3.acsta.net/pictures/19/06/18/12/13/0214170.jpg" group-title="24/7",24/7 NCIS Criminologia Naval
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26358
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NCIS Los Angeles" tvg-logo="https://fr.web.img2.acsta.net/pictures/18/11/06/17/57/4896042.jpg" group-title="24/7",24/7 NCIS Los Angeles
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26359
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vikingos " tvg-logo="https://i.pinimg.com/originals/a7/1b/43/a71b435ed70faae9f4d97cb2d5d58112.jpg" group-title="24/7",24/7 Vikingos 
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26360
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bones" tvg-logo="https://fr.web.img3.acsta.net/pictures/14/02/17/11/13/171605.jpg" group-title="24/7",24/7 Bones
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26350
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Breaking Bad" tvg-logo="https://fr.web.img5.acsta.net/pictures/19/06/18/12/11/3956503.jpg" group-title="24/7",24/7 Breaking Bad
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26351
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Castle" tvg-logo="https://photos.tf1.fr/700/933/vignette-portrait-castle-2-fb378f-7a7331-0@1x.webp" group-title="24/7",24/7 Castle
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26352
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chernobyl" tvg-logo="https://fr.web.img6.acsta.net/pictures/19/04/29/08/21/1692162.jpg?coixp=45&coiyp=73" group-title="24/7",24/7 Chernobyl
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26353
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cosmos" tvg-logo="https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/1/ad/1ad68fb6-0195-11ea-8f66-03c14b2081e5/5dc470ea07126.image.jpg?resize=1200%2C675" group-title="24/7",24/7 Cosmos
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26354
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI_Miami" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91AH1MBA4IL._SL1500_.jpg" group-title="24/7",24/7 CSI_Miami
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26355
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Masha y el Oso" tvg-logo="" group-title="24/7",24/7 Masha y el Oso
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26309
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Bombero Sam" tvg-logo="" group-title="24/7",24/7 El Bombero Sam
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26310
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Patrulla Canina 1" tvg-logo="" group-title="24/7",24/7 La Patrulla Canina 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26290
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Patrulla Canina 2" tvg-logo="" group-title="24/7",24/7 La Patrulla Canina 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26291
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig 1" tvg-logo="" group-title="24/7",24/7 Peppa Pig 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26292
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig 2" tvg-logo="" group-title="24/7",24/7 Peppa Pig 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26293
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Blood & Water" tvg-logo="" group-title="24/7",24/7 Blood & Water
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26249
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Carta al rey" tvg-logo="" group-title="24/7",24/7 Carta al rey
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26250
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DARK" tvg-logo="" group-title="24/7",24/7 DARK
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26251
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Desaparecidos" tvg-logo="" group-title="24/7",24/7 Desaparecidos
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26252
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Ultimo baile" tvg-logo="" group-title="24/7",24/7 El Ultimo baile
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26253
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The First" tvg-logo="" group-title="24/7",24/7 The First
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26286
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Five" tvg-logo="" group-title="24/7",24/7 The Five
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26287
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FBI" tvg-logo="" group-title="24/7",24/7 FBI
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26277
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rogue" tvg-logo="" group-title="24/7",24/7 Rogue
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26278
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Station 19" tvg-logo="" group-title="24/7",24/7 Station 19
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26279
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Blindspot" tvg-logo="" group-title="24/7",24/7 Blindspot
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26274
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Supergirl" tvg-logo="" group-title="24/7",24/7 Supergirl
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26280
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fernando" tvg-logo="" group-title="24/7",24/7 Fernando
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26254
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jugando con fuego" tvg-logo="" group-title="Movistar",24/7 Jugando con fuego
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26256
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lenox Hill" tvg-logo="" group-title="24/7",24/7 Lenox Hill
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26257
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cobra Kai" tvg-logo="" group-title="24/7",24/7 Cobra Kai
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26262
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jack Ryan" tvg-logo="" group-title="24/7",24/7 Jack Ryan
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26263
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MacGyver " tvg-logo="" group-title="24/7",24/7 MacGyver 
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26264
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Raised By Wolves" tvg-logo="" group-title="Movistar",24/7 Raised By Wolves
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26265
+#EXTINF:-1 tvg-id="" tvg-name="24/7 XIII The Series" tvg-logo="" group-title="24/7",24/7 XIII The Series
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26266
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Locke and  Key" tvg-logo="" group-title="24/7",24/7 Locke and  Key
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26258
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Maldita" tvg-logo="" group-title="24/7",24/7 Maldita
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26259
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Seal Team" tvg-logo="" group-title="24/7",24/7 Seal Team
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26260
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Snowpiercer  Rompenieves" tvg-logo="" group-title="24/7",24/7 Snowpiercer  Rompenieves
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26261
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ICE" tvg-logo="" group-title="24/7",24/7 ICE
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26255
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chicago Fire" tvg-logo="https://fr.web.img6.acsta.net/pictures/17/10/25/12/28/0781459.jpg" group-title="24/7",24/7 Chicago Fire
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26230
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pandemia: como prevenir un brote" tvg-logo="" group-title="24/7",24/7 Pandemia: como prevenir un brote
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26222
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hunters" tvg-logo="" group-title="24/7",24/7 Hunters
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26196
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Navy Investigacion Criminal" tvg-logo="" group-title="24/7",24/7 Navy Investigacion Criminal
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26197
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NCIS Los Angeles" tvg-logo="" group-title="24/7",24/7 NCIS Los Angeles
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26198
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SWAT" tvg-logo="" group-title="24/7",24/7 SWAT
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26199
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Mandalorian" tvg-logo="" group-title="24/7",24/7 The Mandalorian
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26166
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Messiah" tvg-logo="" group-title="24/7",24/7 Messiah
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26161
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dexter" tvg-logo="" group-title="24/7",24/7 Dexter
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26613
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mr Robot" tvg-logo="" group-title="24/7",24/7 Mr Robot
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26614
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Witcher" tvg-logo="" group-title="24/7",24/7 The Witcher
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26162
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Arrow" tvg-logo="" group-title="24/7",24/7 Arrow
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26607
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Batwoman" tvg-logo="" group-title="24/7",24/7 Batwoman
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26608
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bodyguard" tvg-logo="" group-title="24/7",24/7 Bodyguard
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26609
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ballers" tvg-logo="" group-title="24/7",24/7 Ballers
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26610
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Atípico" tvg-logo="" group-title="24/7",24/7 Atípico
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26600
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Good Doctor" tvg-logo="" group-title="24/7",24/7 Good Doctor
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26601
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Soprano" tvg-logo="" group-title="24/7",24/7 Los Soprano
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26602
+#EXTINF:-1 tvg-id="" tvg-name="24/7 See" tvg-logo="" group-title="24/7",24/7 See
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26604
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Mandalorian" tvg-logo="" group-title="24/7",24/7 The Mandalorian
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26605
