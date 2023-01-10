@@ -1,4 +1,4 @@
-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
 #EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="tv",LA 1 HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/355
 #EXTINF:-1 tvg-id="" tvg-name="LA 1 FULL HD" tvg-logo="" group-title="tv",LA 1 FULL HD
@@ -137,7 +137,7 @@ http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/420
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV FULL HD" tvg-logo="" group-title="documentales",IBERALIA TV FULL HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3845
 #EXTINF:-1 tvg-id="toros.es" tvg-name="TOROS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="documentales",TOROS HD
-http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/376
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/376.ts?h=d9db1e823f366e5d163824a7d1eb0201&i=79.116.70.99&s=1661361782
 #EXTINF:-1 tvg-id="" tvg-name="TOROS FULL HD" tvg-logo="" group-title="documentales",TOROS FULL HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3816
 #EXTINF:-1 tvg-id="" tvg-name="TOROS 4K" tvg-logo="" group-title="documentales",TOROS 4K
