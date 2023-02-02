@@ -240,9 +240,9 @@ http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4
 #EXTINF:-1 xui-id="48540" tvg-id="M+ GOLF HD" tvg-name="|ES| MOVISTAR GOLF" tvg-logo="http://protocol.solanaflix.com:8080/images/b3483f059f8b4f1338a362ce50da1b62.png" group-title="DEPORTES",  GOLF
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypC6SIyu5kQE-bT3F_svaHVO
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypCyNBwY-KkBnXARV-5cO_l2
-#EXTINF:-1 xui-id="48545" tvg-id="TELEDEPORTE" tvg-name="|ES| TELEDEPORTE" tvg-logo="http://protocol.solanaflix.com:8080/images/f2441f5007f7434c4016d8c772892d5b.png" group-title="DEPORTES",TELEDEPORTE
+#EXTINF:-1 xui-id="48545" tvg-id="TELEDEPORTE" tvg-name="|ES| TELEDEPORTE" tvg-logo="https://fep.es/admin/noticias/fotos/Tdp-logo.jpg" group-title="DEPORTES",TELEDEPORTE
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypD60IywNHlvj1YjTuAKi5ng
-#EXTINF:-1 xui-id="48546" tvg-id="TELEDEPORTE" tvg-name="|ES| TELEDEPORTE FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/f2441f5007f7434c4016d8c772892d5b.png" group-title="DEPORTES",TELEDEPORTE FHD
+#EXTINF:-1 xui-id="48546" tvg-id="TELEDEPORTE" tvg-name="|ES| TELEDEPORTE FHD" tvg-logo="https://fep.es/admin/noticias/fotos/Tdp-logo.jpg" group-title="DEPORTES",TELEDEPORTE FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypAP-xa9Hqs-_rUSVjKTTkvn
 #EXTINF:-1 xui-id="48549" tvg-id="ESPORT3" tvg-name="|ES| ESPORT 3" tvg-logo="http://protocol.solanaflix.com:8080/images/97e7168864b8f624c099101b442a970c.png" group-title="DEPORTES",ESPORT 3
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypBQu7nBhvCbWts4-qMHBUxR
@@ -354,7 +354,7 @@ http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypD1-0_J8ADN-_EZJ-10jNnH
 #EXTINF:-1 xui-id="48479" tvg-id="HISHDES" tvg-name="|ES| HISTORIA" tvg-logo="http://protocol.solanaflix.com:8080/images/1e4e034406cd2444557b1986321d4be4.png" group-title="DOCUMENTAL",HISTORIA
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypCqqkTEXMf5WgM85U5zgb3y
-#EXTINF:-1 xui-id="48481" tvg-id="TDCLVHD" tvg-name="|ES| DISCOVERY CHANNEL" tvg-logo="http://protocol.solanaflix.com:8080/images/a4a3ecd7e4d08a420123ca06b36e3673.png" group-title="DOCUMENTAL",DISCOVERY CHANNEL
+#EXTINF:-1 xui-id="48481" tvg-id="discoverychannel.es" tvg-name="|ES| DISCOVERY CHANNEL" tvg-logo="http://protocol.solanaflix.com:8080/images/a4a3ecd7e4d08a420123ca06b36e3673.png" group-title="DOCUMENTAL",DISCOVERY CHANNEL
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypAXi57htnPtfZWQIzoz2TAk
 #EXTINF:-1 xui-id="48487" tvg-id="DISCMAX" tvg-name="|ES| DMAX" tvg-logo="http://protocol.solanaflix.com:8080/images/26bfaabc8ab71544f153e910bcec2a31.png" group-title="DOCUMENTAL",DMAX
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDqdwQPmQV11iLRmBUBWXYD
@@ -366,11 +366,11 @@ http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22usO3wbo5AviDwf_vdy9
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypCIFSnAxS6ZpxIZH7dqZkn6
 #EXTINF:-1 xui-id="48483" tvg-id="NGCCLA" tvg-name="|ES| NATIONAL GEOGRAPHIC" tvg-logo="http://protocol.solanaflix.com:8080/images/a94b5b322eaf66d0fc5018d10280ec57.png" group-title="DOCUMENTAL",NATIONAL GEOGRAPHIC
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypAU7Z9BA4NWfAQTOzIKld85
-#EXTINF:-1 xui-id="48486" tvg-id="NATGWES" tvg-name="|ES| NATIONAL GEOGRAFIC WILD FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCmr8hEgRwbmp10Y-Nm7DmqVJ7n0J9drEbyyye-pH_rmQ.png" group-title="DOCUMENTAL",NATIONAL GEOGRAFIC WILD FHD
+#EXTINF:-1 xui-id="48486" tvg-id="NG WILD FULL HD" tvg-name="|ES| NATIONAL GEOGRAFIC WILD FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCmr8hEgRwbmp10Y-Nm7DmqVJ7n0J9drEbyyye-pH_rmQ.png" group-title="DOCUMENTAL",NATIONAL GEOGRAFIC WILD FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDUxuHOFMeSnC0Hy32Dj6-m
-#EXTINF:-1 xui-id="48485" tvg-id="NATWILA" tvg-name="|ES| NATIONAL GEOGRAFIC WILD" tvg-logo="http://protocol.solanaflix.com:8080/images/33c0eb9393902f872b58e16b0e6cb4b7.png" group-title="DOCUMENTAL",NATIONAL GEOGRAFIC WILD
+#EXTINF:-1 xui-id="48485" tvg-id="NG WILD FULL HD" tvg-name="|ES| NATIONAL GEOGRAFIC WILD" tvg-logo="http://protocol.solanaflix.com:8080/images/33c0eb9393902f872b58e16b0e6cb4b7.png" group-title="DOCUMENTAL",NATIONAL GEOGRAFIC WILD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypBOAXOQT9mDzh8uLJFnso2s
-#EXTINF:-1 xui-id="48495" tvg-id="IBRALHD" tvg-name="|ES| IBERALIA" tvg-logo="http://protocol.solanaflix.com:8080/images/735ce065417968c0f63988ae76db2106.png" group-title="DOCUMENTAL",IBERALIA
+#EXTINF:-1 xui-id="48495" tvg-id="iberaliatv.es" tvg-name="|ES| IBERALIA" tvg-logo="http://protocol.solanaflix.com:8080/images/735ce065417968c0f63988ae76db2106.png" group-title="DOCUMENTAL",IBERALIA
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDsoAJonCkfY7zt7hdrRJ1l
 #EXTINF:-1 xui-id="109250" tvg-id="CAZAVS" tvg-name="|ES| CAZAVISION" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMpPgjitgmT16d0a9wn-SSyT-REjfH_gnj7cXqX3KpXwA.png" group-title="DOCUMENTAL",CAZAVISION
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3D3yfkoeGKm_L4CYr21wdxg
@@ -2185,6 +2185,7 @@ http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacI
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3DPUoH8hOqVXTtKtf0eg4CA
 #EXTINF:-1 xui-id="103359" tvg-id="" tvg-name="BTN 20: Minnesota vs St. Thomas | Ice Hockey (W) - Sun 27th 8:00PM" tvg-logo="" group-title="US - SPORT",BTN 20: Minnesota vs St. Thomas | Ice Hockey (W) - Sun 27th 8:00PM
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3CRFV-QFQuXZfnNufSzd_58
+
 
 
 
