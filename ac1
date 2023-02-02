@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 xui-id="48398" tvg-id="M+ 0#" tvg-name="M+ 0# FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/88bf12850d39831cdf64199d615ffe52.png" group-title="CINE",M+ 0# FHD
+#EXTINF:-1 xui-id="48398" tvg-id="M+ #0 HD" tvg-name="M+ 0# FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/88bf12850d39831cdf64199d615ffe52.png" group-title="CINE",M+ 0# FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypD6Eo8_6jR0z4MpUfoJu7s_
-#EXTINF:-1 xui-id="48397" tvg-id="M+ 0#" tvg-name="M+ 0#" tvg-logo="http://protocol.solanaflix.com:8080/images/dce3b5866fc77e687af494fcebecef2a.png" group-title="CINE",M+ 0#
+#EXTINF:-1 xui-id="48397" tvg-id="M+ #0 HD" tvg-name="M+ 0#" tvg-logo="http://protocol.solanaflix.com:8080/images/dce3b5866fc77e687af494fcebecef2a.png" group-title="CINE",M+ 0#
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypCPSvjpBZDVpwyiXX0veGvt
 #EXTINF:-1 xui-id="109245" tvg-id="La Resistencia" tvg-name="LA RESISTENCIA" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p0cm-_yHSEpRHeomg9LGCGw.png" group-title="CINE",LA RESISTENCIA
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3AoSk8HdkONm1FIUKwFTlBd
@@ -10,7 +10,7 @@ http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacI
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3Bkg6SqPEEGubo4mqrOa-_j
 #EXTINF:-1 xui-id="102339" tvg-id="M+ FEST" tvg-name="M+  FEST" tvg-logo="http://protocol.solanaflix.com:8080/images/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJpJ8WUPqbphdhWs9EVkdL2bERPpRq-HqmUqWCbn3RL2OJ1TO4-ZsK8JK-C3-aimCTOHcqWL6vyum63bCvPN-ALaYs5FpkaGGzfg6pBC5od0TOjRh7jdxRBXpG1B3X1seIyJzdwskb2eSCWdJZ_WYkdw.png" group-title="CINE",M+ FEST
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3BCsEY1jcfsjWm2hWj-Vv-5
-#EXTINF:-1 xui-id="109246" tvg-id="M+ UNIVERSO TARANTINO" tvg-name="M+ UNIVERSO TARANTINO" tvg-logo="" group-title="CINE",M+ UNIVERSO TARANTINO
+#EXTINF:-1 xui-id="109246" tvg-id="UNIVERSO TARANTINO" tvg-name="M+ UNIVERSO TARANTINO" tvg-logo="" group-title="CINE",M+ UNIVERSO TARANTINO
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3BCwE_ulTQmohR5gzqnPUG0
 #EXTINF:-1 xui-id="48400" tvg-id="M+ ESTRENOS" tvg-name="M+ ESTRENOS FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/1455d278e2d60d507074e65cee44e58e.png" group-title="CINE",M+ESTRENOS FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypASoXjGv0L-Q1WeOBvaaw0y
@@ -72,7 +72,7 @@ http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypAbp1nv_jLndY-SzUiJxG64
 #EXTINF:-1 xui-id="48418" tvg-id="XTRMHD" tvg-name="|ES| XTRM FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/760584d13f0c6712c5b7df4dc65c075e.png" group-title="CINE",XTRM FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypAzXbO_gsAWRyTQNDXrnXk6
-#EXTINF:-1 xui-id="48417" tvg-id="XTRMHD" tvg-name="|ES| XTRM" tvg-logo="" group-title="CINE",XTREM
+#EXTINF:-1 xui-id="48417" tvg-id="XTRMHD" tvg-name="|ES| XTRM" tvg-logo="" group-title="CINE",XTRM
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypBoEOO4FzTbnODAULmtCn5y
 #EXTINF:-1 xui-id="62202" tvg-id="DARK" tvg-name="|ES| DARK FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/e9163bcafb4ddaa04be7b1f4842a42da.png" group-title="CINE",DARK FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22ujTt-e7ZmY7Jn9Pj3OmpVEFo7qzOIBDOuSQrrR04vLOl
@@ -2185,6 +2185,7 @@ http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacI
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3DPUoH8hOqVXTtKtf0eg4CA
 #EXTINF:-1 xui-id="103359" tvg-id="" tvg-name="BTN 20: Minnesota vs St. Thomas | Ice Hockey (W) - Sun 27th 8:00PM" tvg-logo="" group-title="US - SPORT",BTN 20: Minnesota vs St. Thomas | Ice Hockey (W) - Sun 27th 8:00PM
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3CRFV-QFQuXZfnNufSzd_58
+
 
 
 
