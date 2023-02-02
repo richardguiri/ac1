@@ -1,27 +1,28 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-
-#EXTINF:-1 xui-id="48398" tvg-id="CEROHD" tvg-name="|ES| MOVISTAR 0# FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/88bf12850d39831cdf64199d615ffe52.png" group-title="CINE",M+ 0# FHD
+#EXTINF:-1 xui-id="48398" tvg-id="M+ 0#" tvg-name="M+ 0# FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/88bf12850d39831cdf64199d615ffe52.png" group-title="CINE",M+ 0# FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypD6Eo8_6jR0z4MpUfoJu7s_
-#EXTINF:-1 xui-id="48397" tvg-id="CERO" tvg-name="|ES| MOVISTAR 0#" tvg-logo="http://protocol.solanaflix.com:8080/images/dce3b5866fc77e687af494fcebecef2a.png" group-title="CINE",M+ 0#
+#EXTINF:-1 xui-id="48397" tvg-id="M+ 0#" tvg-name="M+ 0#" tvg-logo="http://protocol.solanaflix.com:8080/images/dce3b5866fc77e687af494fcebecef2a.png" group-title="CINE",M+ 0#
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypCPSvjpBZDVpwyiXX0veGvt
 #EXTINF:-1 xui-id="109245" tvg-id="La Resistencia" tvg-name="LA RESISTENCIA" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p0cm-_yHSEpRHeomg9LGCGw.png" group-title="CINE",LA RESISTENCIA
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3AoSk8HdkONm1FIUKwFTlBd
-#EXTINF:-1 xui-id="102339" tvg-id="" tvg-name="|ES| MOVISTAR FEST" tvg-logo="http://protocol.solanaflix.com:8080/images/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJpJ8WUPqbphdhWs9EVkdL2bERPpRq-HqmUqWCbn3RL2OJ1TO4-ZsK8JK-C3-aimCTOHcqWL6vyum63bCvPN-ALaYs5FpkaGGzfg6pBC5od0TOjRh7jdxRBXpG1B3X1seIyJzdwskb2eSCWdJZ_WYkdw.png" group-title="CINE",M+ FEST
+#EXTINF:-1 xui-id="102338" tvg-id="M+ FEST" tvg-name="M+ FEST FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJpJ8WUPqbphdhWs9EVkdL2bERPpRq-HqmUqWCbn3RL2OJ1TO4-ZsK8JK-C3-aimCTOHcqWL6vyum63bCvPN-ALaYs5FpkaGGzfg6pBC5od0TOjRh7jdxRBXpG1B3X1seIyJzdwskb2eSCWdJZ_WYkdw.png" group-title="CINE",M+ FEST FHD
+http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3Bkg6SqPEEGubo4mqrOa-_j
+#EXTINF:-1 xui-id="102339" tvg-id="M+ FEST" tvg-name="M+  FEST" tvg-logo="http://protocol.solanaflix.com:8080/images/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJpJ8WUPqbphdhWs9EVkdL2bERPpRq-HqmUqWCbn3RL2OJ1TO4-ZsK8JK-C3-aimCTOHcqWL6vyum63bCvPN-ALaYs5FpkaGGzfg6pBC5od0TOjRh7jdxRBXpG1B3X1seIyJzdwskb2eSCWdJZ_WYkdw.png" group-title="CINE",M+ FEST
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3BCsEY1jcfsjWm2hWj-Vv-5
-#EXTINF:-1 xui-id="109246" tvg-id="" tvg-name="|ES| M+ VERY BRITISH" tvg-logo="" group-title="CINE",M+ VERY BRITISH
+#EXTINF:-1 xui-id="109246" tvg-id="M+ UNIVERSO TARANTINO" tvg-name="M+ UNIVERSO TARANTINO" tvg-logo="" group-title="CINE",M+ UNIVERSO TARANTINO
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3BCwE_ulTQmohR5gzqnPUG0
-#EXTINF:-1 xui-id="48400" tvg-id="MESTHD" tvg-name="|ES| MOVISTAR ESTRENOS FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/1455d278e2d60d507074e65cee44e58e.png" group-title="CINE",M+ESTRENOS FHD
+#EXTINF:-1 xui-id="48400" tvg-id="M+ ESTRENOS" tvg-name="M+ ESTRENOS FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/1455d278e2d60d507074e65cee44e58e.png" group-title="CINE",M+ESTRENOS FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypASoXjGv0L-Q1WeOBvaaw0y
-#EXTINF:-1 xui-id="48399" tvg-id="MESTHD" tvg-name="|ES| MOVISTAR ESTRENOS" tvg-logo="http://protocol.solanaflix.com:8080/images/1455d278e2d60d507074e65cee44e58e.png" group-title="CINE",M+MOVISTAR ESTRENOS
+#EXTINF:-1 xui-id="48399" tvg-id="M+ ESTRENOS" tvg-name="M+ ESTRENOS" tvg-logo="http://protocol.solanaflix.com:8080/images/1455d278e2d60d507074e65cee44e58e.png" group-title="CINE",M+MOVISTAR ESTRENOS
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypBWLUyWYemWf3eVGWCUpb7P
-#EXTINF:-1 xui-id="102334" tvg-id="MEST" tvg-name="|ES| MOVISTAR ESTRENOS 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18pTJxcAefGGx048Nw7i9bZwA.png" group-title="CINE",M+ ESTRENOS 2 FHD
+#EXTINF:-1 xui-id="102334" tvg-id="M+ ESTRENOS 2" tvg-name="M+ ESTRENOS 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18pTJxcAefGGx048Nw7i9bZwA.png" group-title="CINE",M+ ESTRENOS 2 FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3A3AjAMM3u0qNQBXPyIYaH5
-#EXTINF:-1 xui-id="102335" tvg-id="MEST" tvg-name="|ES| MOVISTAR ESTRENOS 2" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18pTJxcAefGGx048Nw7i9bZwA.png" group-title="CINE",M+ ESTRENOS 2
+#EXTINF:-1 xui-id="102335" tvg-id="M+ ESTRENOS 2" tvg-name="M+ ESTRENOS 2" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18pTJxcAefGGx048Nw7i9bZwA.png" group-title="CINE",M+ ESTRENOS 2
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3BcPQOesIPEaUIbFi5BHkxs
-#EXTINF:-1 xui-id="48402" tvg-id="MACCIHD" tvg-name="|ES| MOVISTAR ACCION FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/c4f6fdf24e4a5c55c4518342fa2d16f5.png" group-title="CINE",M+ ACCION FHD
+#EXTINF:-1 xui-id="48402" tvg-id="M+ ACCION" tvg-name="M+ ACCION FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/c4f6fdf24e4a5c55c4518342fa2d16f5.png" group-title="CINE",M+ ACCION FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypBTycd9_IN9iaoXczhJzOAF
-#EXTINF:-1 xui-id="48401" tvg-id="MACCI" tvg-name="|ES| MOVISTAR ACCION" tvg-logo="http://protocol.solanaflix.com:8080/images/d97fb24e0deabe8b47e780745e3161d4.png" group-title="CINE",M+ ACCION
+#EXTINF:-1 xui-id="48401" tvg-id="M+ ACCION" tvg-name="|ES| MOVISTAR ACCION" tvg-logo="http://protocol.solanaflix.com:8080/images/d97fb24e0deabe8b47e780745e3161d4.png" group-title="CINE",M+ ACCION
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDcqinQ-u34KWTxCDvrsbAG
 #EXTINF:-1 xui-id="48404" tvg-id="MCOMHD" tvg-name="|ES| MOVISTAR COMEDIA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/ddfdb0ccac6bbc67650fafdbde3a360d.png" group-title="CINE",M+ COMEDIA FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDKyM3PCWdkJEtH-AH-GUgP
@@ -31,26 +32,24 @@ http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDfcBPgO0Kloyp4cqJUQQa6
 #EXTINF:-1 xui-id="48405" tvg-id="MDRAMHD" tvg-name="|ES| MOVISTAR DRAMA" tvg-logo="http://protocol.solanaflix.com:8080/images/12311ddb62355dff2654656fc1815614.png" group-title="CINE",M+ DRAMA
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypB8Byjbp41e3lKDoO17FBYM
-#EXTINF:-1 xui-id="48407" tvg-id="MCINNHD" tvg-name="|ES| MOVISTAR CINE Ñ" tvg-logo="http://protocol.solanaflix.com:8080/images/a107aa2c3a55817e0ac524f4077f7806.png" group-title="CINE",M+ CINE Ñ
+#EXTINF:-1 xui-id="48407" tvg-id="M+ CINE Ñ" tvg-name="M+ CINE Ñ" tvg-logo="http://protocol.solanaflix.com:8080/images/a107aa2c3a55817e0ac524f4077f7806.png" group-title="CINE",M+ CINE Ñ
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypAHOeV-J6HgFP3VxvZs_LwM
-#EXTINF:-1 xui-id="109482" tvg-id="" tvg-name="|ES|  MOVISTAR CLASICOS CINE Ñ FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="CINE",M+ CINE Ñ FHD
+#EXTINF:-1 xui-id="109482" tvg-id="M+ CINE Ñ" tvg-name="|ES|  MOVISTAR CLASICOS CINE Ñ FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="CINE",M+ CINE Ñ FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3DFJ36luvJLnC0By4GX7KXL
-#EXTINF:-1 xui-id="48419" tvg-id="SOMO" tvg-name="|ES| SOMOS FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/754c93154a5ac9bc754b8d57b6a2fd5d.png" group-title="CINE",SOMOS FHD
+#EXTINF:-1 xui-id="48419" tvg-id="SOMOS" tvg-name="|ES| SOMOS FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/754c93154a5ac9bc754b8d57b6a2fd5d.png" group-title="CINE",SOMOS FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDf49Gb2X3_aZz9d78ICh-M
-#EXTINF:-1 xui-id="109248" tvg-id="MovistarClasicos.es" tvg-name="|ES| MOVISTAR CLASICO FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="CINE",M+ CLASICO FHD
+#EXTINF:-1 xui-id="109248" tvg-id="MovistarClasicos.es" tvg-name="M+ CLASICO FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="CINE",M+ CLASICO FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3BEsthwfMGfxLMp83Zx9GAd
-#EXTINF:-1 xui-id="109249" tvg-id="MovistarClasicos.es" tvg-name="|ES| MOVISTAR CLASICOS" tvg-logo="http://protocol.solanaflix.com:8080/images/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="CINE",M+ CLASICO
+#EXTINF:-1 xui-id="109249" tvg-id="M+ CLASICO" tvg-name="M+ CLASICO" tvg-logo="http://protocol.solanaflix.com:8080/images/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="CINE",M+ CLASICO
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3DvNztIEE65ACUy-3sFN_g6
-#EXTINF:-1 xui-id="48428" tvg-id="MSERHD" tvg-name="|ES| MOVISTAR SERIES FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8f56109b1e5ddcac71837c62f6e5515e.png" group-title="CINE",M+ SERIES FHD
+#EXTINF:-1 xui-id="48428" tvg-id="M+ SERIES" tvg-name="M+ SERIES FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8f56109b1e5ddcac71837c62f6e5515e.png" group-title="CINE",M+ SERIES FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDsZ6jdyCt7RTh5HLRrqm6R
-#EXTINF:-1 xui-id="48427" tvg-id="MSERHD" tvg-name="|ES| MOVISTAR SERIES" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBi2wv5Viw52b0x8Vgq8Ba3RVvjrmeESotWXAAyOY0yDbzs8JqpXcUthsEpzffvNG24.png" group-title="CINE",MOVISTAR SERIES
+#EXTINF:-1 xui-id="48427" tvg-id="M+ SERIES" tvg-name="|ES| MOVISTAR SERIES" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBi2wv5Viw52b0x8Vgq8Ba3RVvjrmeESotWXAAyOY0yDbzs8JqpXcUthsEpzffvNG24.png" group-title="CINE",MOVISTAR SERIES
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypBTKQYe_H7qAvB1t9O5FIuL
-#EXTINF:-1 xui-id="48430" tvg-id="MSERMAN" tvg-name="|ES| MOVISTAR SERIES 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/d6005f8f7fb642bcdbcb542c10384e48.png" group-title="CINE",M+ SERIES 2 FHD
+#EXTINF:-1 xui-id="48430" tvg-id="M+ SERIES 2" tvg-name="|ES| MOVISTAR SERIES 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/d6005f8f7fb642bcdbcb542c10384e48.png" group-title="CINE",M+ SERIES 2 FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypBzyfu0opqOUNpaAI-nqDNU
-#EXTINF:-1 xui-id="48429" tvg-id="MSERMAN" tvg-name="|ES| MOVISTAR SERIES 2" tvg-logo="http://protocol.solanaflix.com:8080/images/d6005f8f7fb642bcdbcb542c10384e48.png" group-title="CINE",M+ SERIES 2
+#EXTINF:-1 xui-id="48429" tvg-id="M+ SERIES 2" tvg-name="|ES| MOVISTAR SERIES 2" tvg-logo="http://protocol.solanaflix.com:8080/images/d6005f8f7fb642bcdbcb542c10384e48.png" group-title="CINE",M+ SERIES 2
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypARjOQT4oLeQnGe-cTDvael
-#EXTINF:-1 xui-id="102338" tvg-id="" tvg-name="|ES| MOVISTAR FEST FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJpJ8WUPqbphdhWs9EVkdL2bERPpRq-HqmUqWCbn3RL2OJ1TO4-ZsK8JK-C3-aimCTOHcqWL6vyum63bCvPN-ALaYs5FpkaGGzfg6pBC5od0TOjRh7jdxRBXpG1B3X1seIyJzdwskb2eSCWdJZ_WYkdw.png" group-title="CINE",M+ FEST FHD
-http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3Bkg6SqPEEGubo4mqrOa-_j
 #EXTINF:-1 xui-id="48450" tvg-id="COMCCE" tvg-name="|ES| COMEDY CENTRAL FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/368ee045a76d8af7a0efa688e40838ed.png" group-title="CINE",COMEDY CENTRAL FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypB5BSUDRtWFR7x1UfbkaZbH
 #EXTINF:-1 xui-id="48449" tvg-id="COMCCE" tvg-name="|ES| COMEDY CENTRAL" tvg-logo="http://protocol.solanaflix.com:8080/images/7130d47fe203cc4be9948cb9c5c9a31e.png" group-title="CINE",COMEDY CENTRAL
@@ -73,9 +72,9 @@ http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypAbp1nv_jLndY-SzUiJxG64
 #EXTINF:-1 xui-id="48418" tvg-id="XTRMHD" tvg-name="|ES| XTRM FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/760584d13f0c6712c5b7df4dc65c075e.png" group-title="CINE",XTRM FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypAzXbO_gsAWRyTQNDXrnXk6
-#EXTINF:-1 xui-id="48417" tvg-id="EXTTEUV" tvg-name="|ES| XTREM" tvg-logo="" group-title="CINE",XTREM
+#EXTINF:-1 xui-id="48417" tvg-id="XTRMHD" tvg-name="|ES| XTRM" tvg-logo="" group-title="CINE",XTREM
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypBoEOO4FzTbnODAULmtCn5y
-#EXTINF:-1 xui-id="62202" tvg-id="DARKSPA" tvg-name="|ES| DARK FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/e9163bcafb4ddaa04be7b1f4842a42da.png" group-title="CINE",DARK FHD
+#EXTINF:-1 xui-id="62202" tvg-id="DARK" tvg-name="|ES| DARK FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/e9163bcafb4ddaa04be7b1f4842a42da.png" group-title="CINE",DARK FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22ujTt-e7ZmY7Jn9Pj3OmpVEFo7qzOIBDOuSQrrR04vLOl
 #EXTINF:-1 xui-id="48432" tvg-id="CALLE13" tvg-name="|ES| CALLE 13 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/bec671b8f24c482c48416977a354c36a.png" group-title="CINE",CALLE 13 FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypCwoxkkGu0NooEcrhGN1LqF
@@ -101,79 +100,79 @@ http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypB4Eb4_QWo4awNrX9U5Lk9z
 #EXTINF:-1 xui-id="48445" tvg-id="SYFYHA" tvg-name="|ES| SYFY" tvg-logo="http://protocol.solanaflix.com:8080/images/85470b41c4778a801cfc1c17387e9fd7.png" group-title="CINE",SYFY
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypBrIJBhNFIVCKYwvaAAjPRj
-#EXTINF:-1 xui-id="48448" tvg-id="COSTVES" tvg-name="|ES| COSMOPOLITAN FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3VBDy5-TwcBZ31DVvc6NBMxekiJxesDLJDDNQeDXRyDulrlSzMoClGOQKPXIVIpsCw.png" group-title="CINE",COSMOPOLITAN FHD
+#EXTINF:-1 xui-id="48448" tvg-id="COSTVES" tvg-name="|ES| COSMOPOLITAN FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjuaGAWKRr_Ts34WdxrjmjD44JrFALcO8ftC2D8dW01gg.png" group-title="CINE",COSMOPOLITAN FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypCNYoCvQzGGKJ9-fwH_ufln
-#EXTINF:-1 xui-id="48447" tvg-id="" tvg-name="|ES| COSMOS" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjuaGAWKRr_Ts34WdxrjmjD44JrFALcO8ftC2D8dW01gg.png" group-title="CINE",COSMOPOLITAN
+#EXTINF:-1 xui-id="48447" tvg-id="COSTVES" tvg-name="|ES| COSMOPOLITAN FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjuaGAWKRr_Ts34WdxrjmjD44JrFALcO8ftC2D8dW01gg.png" group-title="CINE",COSMOPOLITAN
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDAQdduvwX4xkIIy6Jqaq1a
 #EXTINF:-1 xui-id="109247" tvg-id="BOM CINE" tvg-name="BOM CINE" tvg-logo="" group-title="CINE",BOM CINE
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3BBg_3w6y7Xslw88zKc9xSr
-#EXTINF:-1 xui-id="109341" tvg-id="" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/MwmqKeEBUbc3XDR_7eL7Of48lUvqbTsaYNBN6JzQAV_XoK_sg_iDAriTgcwtiB2h6Fy3qsRSvlJ_qwmY1hW6AhPVTs9O28mJKB_JoBbSbPo5vIFbvulGEwJwOXPLDG_H.jpeg" group-title="liga",LALIGA SMARTBANK FHD
+#EXTINF:-1 xui-id="109341" tvg-id="LaLiga SmartbankTV" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/MwmqKeEBUbc3XDR_7eL7Of48lUvqbTsaYNBN6JzQAV_XoK_sg_iDAriTgcwtiB2h6Fy3qsRSvlJ_qwmY1hW6AhPVTs9O28mJKB_JoBbSbPo5vIFbvulGEwJwOXPLDG_H.jpeg" group-title="liga",LALIGA SMARTBANK FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3CgPSd2gQdlDasqjYmb9iC6
-#EXTINF:-1 xui-id="109573" tvg-id="" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK HD" tvg-logo="http://protocol.solanaflix.com:8080/images/MwmqKeEBUbc3XDR_7eL7Of48lUvqbTsaYNBN6JzQAV_XoK_sg_iDAriTgcwtiB2h6Fy3qsRSvlJ_qwmY1hW6AhPVTs9O28mJKB_JoBbSbPo5vIFbvulGEwJwOXPLDG_H.jpeg" group-title="liga",LALIGA SMARTBANK HD
+#EXTINF:-1 xui-id="109573" tvg-id="LaLiga SmartbankTV" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK HD" tvg-logo="http://protocol.solanaflix.com:8080/images/MwmqKeEBUbc3XDR_7eL7Of48lUvqbTsaYNBN6JzQAV_XoK_sg_iDAriTgcwtiB2h6Fy3qsRSvlJ_qwmY1hW6AhPVTs9O28mJKB_JoBbSbPo5vIFbvulGEwJwOXPLDG_H.jpeg" group-title="liga",LALIGA SMARTBANK HD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3Dm3iZFo0mATG6hp0sET8_f
-#EXTINF:-1 xui-id="109342" tvg-id="" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/MwmqKeEBUbc3XDR_7eL7Of48lUvqbTsaYNBN6JzQAV_XoK_sg_iDAriTgcwtiB2h6Fy3qsRSvlJ_qwmY1hW6AhPVTs9O28mJKB_JoBbSbPo5vIFbvulGEwJwOXPLDG_H.jpeg" group-title="liga",LALIGA SMARTBANK 1 FHD
+#EXTINF:-1 xui-id="109342" tvg-id="LaLiga SmartbankTV" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/MwmqKeEBUbc3XDR_7eL7Of48lUvqbTsaYNBN6JzQAV_XoK_sg_iDAriTgcwtiB2h6Fy3qsRSvlJ_qwmY1hW6AhPVTs9O28mJKB_JoBbSbPo5vIFbvulGEwJwOXPLDG_H.jpeg" group-title="liga",LALIGA SMARTBANK 1 FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3A74riwAQGoppP-sHKd9tpT
-#EXTINF:-1 xui-id="110590" tvg-id="" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK 2 FHD" tvg-logo="" group-title="liga",LALIGA SMARTBANK 2 FHD
+#EXTINF:-1 xui-id="110590" tvg-id="LaLiga SmartbankTV 2" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK 2 FHD" tvg-logo="" group-title="liga",LALIGA SMARTBANK 2 FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22usO3wbo5AviDwf_vdy9tvuOkMeA0Y1wsSFl2n6l3cle7
-#EXTINF:-1 xui-id="110589" tvg-id="" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK 2 SD" tvg-logo="" group-title="liga",LALIGA SMARTBANK 2 SD
+#EXTINF:-1 xui-id="110589" tvg-id="LaLiga SmartbankTV 2" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK 2 SD" tvg-logo="" group-title="liga",LALIGA SMARTBANK 2 SD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22usO3wbo5AviDwf_vdy9tvuMjRiPnyb7iq0NNQSLaKKW1
-#EXTINF:-1 xui-id="110591" tvg-id="" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK 3 FHD" tvg-logo="" group-title="liga",LALIGA SMARTBANK 3 FHD
+#EXTINF:-1 xui-id="110591" tvg-id="LaLiga SmartbankTV 3" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK 3 FHD" tvg-logo="" group-title="liga",LALIGA SMARTBANK 3 FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22usO3wbo5AviDwf_vdy9tvuNNdgueQYIpQvTOQ013ZndY
-#EXTINF:-1 xui-id="110592" tvg-id="" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK 3 SD" tvg-logo="" group-title="liga",LALIGA SMARTBANK 3 SD
+#EXTINF:-1 xui-id="110592" tvg-id="LaLiga SmartbankTV 3" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK 3 SD" tvg-logo="" group-title="liga",LALIGA SMARTBANK 3 SD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22usO3wbo5AviDwf_vdy9tvuMRBS2Qj_Y9KT-j9ywoMdK_
-#EXTINF:-1 xui-id="101681" tvg-id="LALTV" tvg-name="|ES| LALIGA TV BAR FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nR_d1kpJPqZRIlbrE86UUg68iIPTQ3AfL1LYCurI-y3EQ.png" group-title="liga",LIGA TV BAR FHD
+#EXTINF:-1 xui-id="101681" tvg-id="LALIGATV BAR" tvg-name="|ES| LALIGA TV BAR FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nR_d1kpJPqZRIlbrE86UUg68iIPTQ3AfL1LYCurI-y3EQ.png" group-title="liga",LIGA TV BAR FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3DC0g_N0dNSmk5vHokRtS8a
-#EXTINF:-1 xui-id="101682" tvg-id="LALTV" tvg-name="|ES| LALIGA TV BAR" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nR_d1kpJPqZRIlbrE86UUg68iIPTQ3AfL1LYCurI-y3EQ.png" group-title="liga",LIGA TV BAR
+#EXTINF:-1 xui-id="101682" tvg-id="LALIGATV BAR" tvg-name="|ES| LALIGA TV BAR" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nR_d1kpJPqZRIlbrE86UUg68iIPTQ3AfL1LYCurI-y3EQ.png" group-title="liga",LIGA TV BAR
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3CfwyJiZAnpCZxC8aS3_Uzv
 #EXTINF:-1 xui-id="77942" tvg-id="GOLTVLE" tvg-name="|ES| GOL TV FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/865cc3da0b037e87c67e8d7c19ba2b1c.png" group-title="liga",GOL TV FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22ulEUrcHnqonWN32__alPf6iNUbhDpIR8-VPhc3WIAsWg
 #EXTINF:-1 xui-id="48544" tvg-id="GOLTVLE" tvg-name="|ES| GOL TV" tvg-logo="http://protocol.solanaflix.com:8080/images/865cc3da0b037e87c67e8d7c19ba2b1c.png" group-title="liga",GOL TV
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypAgqRGFMwwPs9xsfVi6ms7J
-#EXTINF:-1 xui-id="109316" tvg-id="" tvg-name="|ES| M. DAZN LALIGA 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18pUbK4zUsSLcDBwJSWQCBdWA.png" group-title="liga",DAZN LIGA 1 FHD
+#EXTINF:-1 xui-id="109316" tvg-id="DAZN LaLigaHD" tvg-name="|ES| M. DAZN LALIGA 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18pUbK4zUsSLcDBwJSWQCBdWA.png" group-title="liga",DAZN LIGA 1 FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3CO-tLsNmpum24oIig9_F2d
-#EXTINF:-1 xui-id="109317" tvg-id="" tvg-name="|ES| M. DAZN LALIGA 1 HD" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18pUbK4zUsSLcDBwJSWQCBdWA.png" group-title="liga",DAZN LIGA 1 HD
+#EXTINF:-1 xui-id="109317" tvg-id="DAZN LaLigaHD" tvg-name="|ES| M. DAZN LALIGA 1 HD" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18pUbK4zUsSLcDBwJSWQCBdWA.png" group-title="liga",DAZN LIGA 1 HD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3D4p6RN3PghPt4Xa1VYj7me
-#EXTINF:-1 xui-id="109318" tvg-id="" tvg-name="|ES| M. Dazn LaLiga 1 HD (720P) OP1" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18pUbK4zUsSLcDBwJSWQCBdWA.png" group-title="liga",Dazn Liga 1 HD (720P) OP1
+#EXTINF:-1 xui-id="109318" tvg-id=""DAZN LaLigaHD tvg-name="|ES| M. Dazn LaLiga 1 HD (720P) OP1" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18pUbK4zUsSLcDBwJSWQCBdWA.png" group-title="liga",Dazn Liga 1 HD (720P) OP1
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3ATUGM_SlUwWtHeYqwLRFkz
-#EXTINF:-1 xui-id="109319" tvg-id="" tvg-name="|ES| M. Dazn LaLiga 1 SD" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18pUbK4zUsSLcDBwJSWQCBdWA.png" group-title="liga",Dazn LaLiga 1 SD
+#EXTINF:-1 xui-id="109319" tvg-id="DAZN LaLigaHD" tvg-name="|ES| M. Dazn LaLiga 1 SD" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18pUbK4zUsSLcDBwJSWQCBdWA.png" group-title="liga",Dazn LaLiga 1 SD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3CdWz0UooPkwKYBF8rEz-oj
-#EXTINF:-1 xui-id="109320" tvg-id="" tvg-name="|ES| M. Dazn LaLiga 2 HD" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18pUbK4zUsSLcDBwJSWQCBdWA.png" group-title="liga",Dazn Liga 2 HD
+#EXTINF:-1 xui-id="109320" tvg-id="DAZN LaLiga2 HD" tvg-name="|ES| M. Dazn LaLiga 2 HD" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18pUbK4zUsSLcDBwJSWQCBdWA.png" group-title="liga",Dazn Liga 2 HD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3Dvw6QQzEYQscfKeZ5OhztP
-#EXTINF:-1 xui-id="109321" tvg-id="" tvg-name="|ES| M. Dazn LaLiga 2 HD (720P)" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18pUbK4zUsSLcDBwJSWQCBdWA.png" group-title="liga",Dazn Liga 2 HD (720P)
+#EXTINF:-1 xui-id="109321" tvg-id="DAZN LaLiga2 HD" tvg-name="|ES| M. Dazn LaLiga 2 HD (720P)" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18pUbK4zUsSLcDBwJSWQCBdWA.png" group-title="liga",Dazn Liga 2 HD (720P)
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3A1lpfCjmBkfNbLJwc6XlNC
-#EXTINF:-1 xui-id="109322" tvg-id="" tvg-name="|ES| M. Dazn LaLiga 2 HD (720P) OP1" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18pUbK4zUsSLcDBwJSWQCBdWA.png" group-title="liga",Dazn Liga 2 HD (720P) OP1
+#EXTINF:-1 xui-id="109322" tvg-id="DAZN LaLiga2 HD" tvg-name="|ES| M. Dazn LaLiga 2 HD (720P) OP1" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18pUbK4zUsSLcDBwJSWQCBdWA.png" group-title="liga",Dazn Liga 2 HD (720P) OP1
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3A4bhi1tqSbFIvoXvFDk4g0
-#EXTINF:-1 xui-id="109323" tvg-id="" tvg-name="|ES| M. Dazn LaLiga 2 SD" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18pUbK4zUsSLcDBwJSWQCBdWA.png" group-title="liga",Dazn Liga 2 SD
+#EXTINF:-1 xui-id="109323" tvg-id="DAZN LaLiga2 HD" tvg-name="|ES| M. Dazn LaLiga 2 SD" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18pUbK4zUsSLcDBwJSWQCBdWA.png" group-title="liga",Dazn Liga 2 SD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3CObtfQtv1KICpIo3n2Ftor
-#EXTINF:-1 xui-id="56222" tvg-id="MOLIGA" tvg-name="|ES| MOVISTAR LA LIGA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSFdoUzk9WkwDNNHfB_MnXGPebyauooZlJu6IsgxQ98QA.png" group-title="liga",M+ LIGA FHD
+#EXTINF:-1 xui-id="56222" tvg-id="M+ LaLiga HD" tvg-name="|ES| MOVISTAR LA LIGA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSFdoUzk9WkwDNNHfB_MnXGPebyauooZlJu6IsgxQ98QA.png" group-title="liga",M+ LIGA FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22un6tCGjqFy1ZSAVtIheP7SZ3alKwXgUTNgIzg3R3lB11
-#EXTINF:-1 xui-id="48563" tvg-id="MOLIGA" tvg-name="|ES| MOVISTAR LA LIGA" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSFdoUzk9WkwDNNHfB_MnXGPebyauooZlJu6IsgxQ98QA.png" group-title="liga",M+ LIGA
+#EXTINF:-1 xui-id="48563" tvg-id="M+ LaLiga HD" tvg-name="|ES| MOVISTAR LA LIGA" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSFdoUzk9WkwDNNHfB_MnXGPebyauooZlJu6IsgxQ98QA.png" group-title="liga",M+ LIGA
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypCFIG1ljFUaP7cMVbRDTJFw
-#EXTINF:-1 xui-id="48503" tvg-id="MOVLIG1" tvg-name="|ES| MOVISTAR LA LIGA 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8dbd78e23ee5795fa914ea4ad6c91324.png" group-title="liga",M+  LIGA 1 FHD
+#EXTINF:-1 xui-id="48503" tvg-id="M+ LaLiga HD" tvg-name="|ES| MOVISTAR LA LIGA 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8dbd78e23ee5795fa914ea4ad6c91324.png" group-title="liga",M+  LIGA 1 FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypCG2IXlulJ-lkba6Qve4TM-
-#EXTINF:-1 xui-id="48502" tvg-id="LALIGA1" tvg-name="|ES| MOVISTAR LA LIGA 1" tvg-logo="http://protocol.solanaflix.com:8080/images/0ff7ae3ad722402663d8d6fb0252dd02.png" group-title="liga",M+ LIGA 1
+#EXTINF:-1 xui-id="48502" tvg-id="M+ LaLiga HD" tvg-name="|ES| MOVISTAR LA LIGA 1" tvg-logo="http://protocol.solanaflix.com:8080/images/0ff7ae3ad722402663d8d6fb0252dd02.png" group-title="liga",M+ LIGA 1
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDYUNLht52UZWorZWquEDUO
-#EXTINF:-1 xui-id="48505" tvg-id="MVLIGA2" tvg-name="|ES| MOVISTAR LA LIGA 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/c4fc97650b75e6ffb857ecc33b3e35ed.png" group-title="liga",M+ LIGA 2 FHD
+#EXTINF:-1 xui-id="48505" tvg-id="M+ LaLiga 2 HD" tvg-name="|ES| MOVISTAR LA LIGA 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/c4fc97650b75e6ffb857ecc33b3e35ed.png" group-title="liga",M+ LIGA 2 FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDhg7qXk_bMwv741akdx2nC
-#EXTINF:-1 xui-id="48504" tvg-id="MVLIGA2" tvg-name="|ES| MOVISTAR LA LIGA 2" tvg-logo="http://protocol.solanaflix.com:8080/images/c4fc97650b75e6ffb857ecc33b3e35ed.png" group-title="liga",M+ LIGA 2
+#EXTINF:-1 xui-id="48504" tvg-id="M+ LaLiga 2 HD" tvg-name="|ES| MOVISTAR LA LIGA 2" tvg-logo="http://protocol.solanaflix.com:8080/images/c4fc97650b75e6ffb857ecc33b3e35ed.png" group-title="liga",M+ LIGA 2
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDBBnKuP8brviC1A7IFDrKF
-#EXTINF:-1 xui-id="48565" tvg-id="MVLIGA3" tvg-name="|ES| MOVISTAR LA LIGA 3 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/cc90d4b099ab89bfe675e27bd1b13245.png" group-title="liga",M+ LIGA 3 FHD
+#EXTINF:-1 xui-id="48565" tvg-id="M+ LaLiga 3 HD" tvg-name="|ES| MOVISTAR LA LIGA 3 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/cc90d4b099ab89bfe675e27bd1b13245.png" group-title="liga",M+ LIGA 3 FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDdcopefAotKoLYo37Ac7Uo
-#EXTINF:-1 xui-id="48506" tvg-id="LALIGA3" tvg-name="|ES| MOVISTAR LA LIGA 3" tvg-logo="http://protocol.solanaflix.com:8080/images/d64660706f02f2352453a0f41987c21e.png" group-title="liga", LA LIGA 3
+#EXTINF:-1 xui-id="48506" tvg-id="M+ LaLiga 3 HD" tvg-name="|ES| MOVISTAR LA LIGA 3" tvg-logo="http://protocol.solanaflix.com:8080/images/d64660706f02f2352453a0f41987c21e.png" group-title="liga", LA LIGA 3
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDHcmkJtohoHnNYDLmV8_br
-#EXTINF:-1 xui-id="48507" tvg-id="LALIGA4" tvg-name="|ES| MOVISTAR LA LIGA 4" tvg-logo="http://protocol.solanaflix.com:8080/images/a6ea9090f032afeaae74388678a7d1b2.png" group-title="liga", LIGA 4
+#EXTINF:-1 xui-id="48507" tvg-id="M+ LaLiga 4 HD" tvg-name="|ES| MOVISTAR LA LIGA 4" tvg-logo="http://protocol.solanaflix.com:8080/images/a6ea9090f032afeaae74388678a7d1b2.png" group-title="liga", LIGA 4
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypB6VkrIMmU8RxmjSOWxQSG_
-#EXTINF:-1 xui-id="48508" tvg-id="LALIGA5" tvg-name="|ES| MOVISTAR LA LIGA 5" tvg-logo="http://protocol.solanaflix.com:8080/images/9d6af501751f0c862db18e6fef90d00f.png" group-title="liga", LIGA 5
+#EXTINF:-1 xui-id="48508" tvg-id="M+ LaLiga 5 HD" tvg-name="|ES| MOVISTAR LA LIGA 5" tvg-logo="http://protocol.solanaflix.com:8080/images/9d6af501751f0c862db18e6fef90d00f.png" group-title="liga", LIGA 5
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypBmhKqduyJDkR7Owk3FcTDs
-#EXTINF:-1 xui-id="48509" tvg-id="" tvg-name="|ES| MOVISTAR LA LIGA 6" tvg-logo="http://protocol.solanaflix.com:8080/images/b9cd14920d0617cddf9f115008173cbc.png" group-title="liga", LIGA 6
+#EXTINF:-1 xui-id="48509" tvg-id="M+ LaLiga 6 HD" tvg-name="|ES| MOVISTAR LA LIGA 6" tvg-logo="http://protocol.solanaflix.com:8080/images/b9cd14920d0617cddf9f115008173cbc.png" group-title="liga", LIGA 6
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDnts0YM-bG2wuqdvHmy3Dh
-#EXTINF:-1 xui-id="48510" tvg-id="" tvg-name="|ES| MOVISTAR LA LIGA 7" tvg-logo="http://protocol.solanaflix.com:8080/images/4bebaf63e00b422f9942900ddab9164b.png" group-title="liga", LIGA 7
+#EXTINF:-1 xui-id="48510" tvg-id="M+ LaLiga 7 HD" tvg-name="|ES| MOVISTAR LA LIGA 7" tvg-logo="http://protocol.solanaflix.com:8080/images/4bebaf63e00b422f9942900ddab9164b.png" group-title="liga", LIGA 7
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDVRWDTsxPiYrv9BnNqF4Da
-#EXTINF:-1 xui-id="48511" tvg-id="" tvg-name="|ES| MOVISTAR LA LIGA 8" tvg-logo="http://protocol.solanaflix.com:8080/images/9cda4f45bb8c4376ca66bccee2f56cd3.png" group-title="liga", LIGA 8
+#EXTINF:-1 xui-id="48511" tvg-id="M+ LaLiga 8 HD" tvg-name="|ES| MOVISTAR LA LIGA 8" tvg-logo="http://protocol.solanaflix.com:8080/images/9cda4f45bb8c4376ca66bccee2f56cd3.png" group-title="liga", LIGA 8
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypCxoQkJRmo4zToIFHG-4qJE
-#EXTINF:-1 xui-id="48566" tvg-id="" tvg-name="|ES| MOVISTAR LA LIGA 9" tvg-logo="http://protocol.solanaflix.com:8080/images/bb32050654bf6f137787fb0c27cc6664.png" group-title="liga", LIGA 9
+#EXTINF:-1 xui-id="48566" tvg-id="M+ LaLiga 9 HD" tvg-name="|ES| MOVISTAR LA LIGA 9" tvg-logo="http://protocol.solanaflix.com:8080/images/bb32050654bf6f137787fb0c27cc6664.png" group-title="liga", LIGA 9
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypA1CQINj5jTrY87VaQ63qiG
-#EXTINF:-1 xui-id="48564" tvg-id="" tvg-name="|ES| MOVISTAR LA LIGA 10" tvg-logo="http://protocol.solanaflix.com:8080/images/9400e5add83ca9a2c643d7a959f9dda9.png" group-title="liga", LIGA 10
+#EXTINF:-1 xui-id="48564" tvg-id="M+ LaLiga 10 HD" tvg-name="|ES| MOVISTAR LA LIGA 10" tvg-logo="http://protocol.solanaflix.com:8080/images/9400e5add83ca9a2c643d7a959f9dda9.png" group-title="liga", LIGA 10
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypAO_dvfdrMeX09u-uDk2lWCINE
 #EXTINF:-1 xui-id="77943" tvg-id="BARCATV" tvg-name="|ES| BARCA TV FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/6020c4a2f7ffd1e8ab1f45216070dcee.png" group-title="liga", BARCA TV FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22ulEUrcHnqonWN32__alPf6hwuTckdVlXEW0mKJu1YoXR
@@ -183,88 +182,87 @@ http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDCZlEAGjwEF19dynREOirp
 #EXTINF:-1 xui-id="48514" tvg-id="LIGCAHD" tvg-name="|ES| MOVISTAR LIGA CAMPEONES FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="CHAMPIONS",M+ LIGA CAMPEONES FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypA1OxEFQ-pC03mEQaF_bLp0
-#EXTINF:-1 xui-id="48512" tvg-id="LIGCAHD" tvg-name="|ES| MOVISTAR LIGA CAMPEONES" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="CHAMPIONS",M+ LIGA CAMPEONES
+#EXTINF:-1 xui-id="48512" tvg-id="M+LCAMPEONES" tvg-name="|ES| MOVISTAR LIGA CAMPEONES" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="CHAMPIONS",M+ LIGA CAMPEONES
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypAqZkcBXIbSV6T2b-QOQTMi
-#EXTINF:-1 xui-id="48518" tvg-id="MVLGCM2" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="CHAMPIONS",M+ LIGA CAMPEONES 2 FHD
+#EXTINF:-1 xui-id="48518" tvg-id="" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="CHAMPIONS",M+ LIGA CAMPEONES 2 FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypBiDeus4PuDBGW6bevHOvC_
-#EXTINF:-1 xui-id="96376" tvg-id="MVLGCM2" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 2" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="CHAMPIONS",M+ LIGA CAMPEONES 2
+#EXTINF:-1 xui-id="96376" tvg-id="M+LCAMPEONES2" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 2" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="CHAMPIONS",M+ LIGA CAMPEONES 2
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uvpEpqvI8tCSn1QEX5Iure-K0Ycx0ifPRyqf8iKQI05M
-#EXTINF:-1 xui-id="48519" tvg-id="MVLGCM3" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 3" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="CHAMPIONS",M+ LIGA CAMPEONES 3
+#EXTINF:-1 xui-id="48519" tvg-id="M+LCAMPEONES3" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 3" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="CHAMPIONS",M+ LIGA CAMPEONES 3
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypBeDCaJGZ3_DR_b_Pf0TnoQ
-#EXTINF:-1 xui-id="48520" tvg-id="MVLGCM4" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 4" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="CHAMPIONS",M+ LIGA CAMPEONES 4
+#EXTINF:-1 xui-id="48520" tvg-id="M+LCAMPEONES4" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 4" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="CHAMPIONS",M+ LIGA CAMPEONES 4
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDXOEGxiujMEKhXWpT7ePhw
-#EXTINF:-1 xui-id="48521" tvg-id="MVLGCM5" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 5" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="CHAMPIONS",M+ LIGA CAMPEONES 5
+#EXTINF:-1 xui-id="48521" tvg-id="M+LCAMPEONES5" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 5" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="CHAMPIONS",M+ LIGA CAMPEONES 5
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypCBsYsY2ryi29pQCYfmcY9-
-#EXTINF:-1 xui-id="48522" tvg-id="MVLGCM6" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 6" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="CHAMPIONS",M+ LIGA CAMPEONES 6
+#EXTINF:-1 xui-id="48522" tvg-id="M+LCAMPEONES6" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 6" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="CHAMPIONS",M+ LIGA CAMPEONES 6
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDilTN02_xDIHIYAGcU6EIa
-#EXTINF:-1 xui-id="48523" tvg-id="MVLGCM8" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 7" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="CHAMPIONS",M+ LIGA CAMPEONES 7
+#EXTINF:-1 xui-id="48523" tvg-id="M+LCAMPEONES7" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 7" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="CHAMPIONS",M+ LIGA CAMPEONES 7
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypCWGhjroK0G-HRiytiJan7G
-#EXTINF:-1 xui-id="48524" tvg-id="MVLGCM8" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 8" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="CHAMPIONS",M+ LIGA CAMPEONES 8
+#EXTINF:-1 xui-id="48524" tvg-id="M+LCAMPEONES8" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 8" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="CHAMPIONS",M+ LIGA CAMPEONES 8
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDZ51XWADR3mkhGMaGq2SN9
-#EXTINF:-1 xui-id="48527" tvg-id="" tvg-name="|ES| MULTIDEPORTE" tvg-logo="http://protocol.solanaflix.com:8080/images/rPdZbViWE29ajRD863HK-_kwcVLG8WqgRFt6gw6xYX4apt-2_FitOArH9oJPgrPCGF1kIInyB8Fr2RtDla_GSQ.png"  group-title="DEPORTES", MULTIDEPORTES
+#EXTINF:-1 xui-id="48527" tvg-id="MULTIDEPORTE" tvg-name="|ES| MULTIDEPORTE" tvg-logo="http://protocol.solanaflix.com:8080/images/rPdZbViWE29ajRD863HK-_kwcVLG8WqgRFt6gw6xYX4apt-2_FitOArH9oJPgrPCGF1kIInyB8Fr2RtDla_GSQ.png"  group-title="DEPORTES", MULTIDEPORTES
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypCTq27UFdTN2A_4fQLLx_DC
-#EXTINF:-1 xui-id="48496" tvg-id="VAMOS" tvg-name="|ES| MOVISTAR VAMOS FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/c56f7ced3ca9acb742698b73c40b0aed.png" group-title="DEPORTES",#V VAMOS FHD
+#EXTINF:-1 xui-id="48496" tvg-id="M+ #VAMOSHD" tvg-name="|ES| MOVISTAR VAMOS FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/c56f7ced3ca9acb742698b73c40b0aed.png" group-title="DEPORTES",#V VAMOS FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDK0BA1RBSb4ax0zZPXnDAh
-#EXTINF:-1 xui-id="48605" tvg-id="VAMOS" tvg-name="|ES| MOVISTAR VAMOS" tvg-logo="http://protocol.solanaflix.com:8080/images/c56f7ced3ca9acb742698b73c40b0aed.png" group-title="DEPORTES",#V VAMOS
+#EXTINF:-1 xui-id="48605" tvg-id="M+ #VAMOSHD" tvg-name="|ES| MOVISTAR VAMOS" tvg-logo="http://protocol.solanaflix.com:8080/images/c56f7ced3ca9acb742698b73c40b0aed.png" group-title="DEPORTES",#V VAMOS
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypAk7iNovpzY0ADt5hVdIaEJ
-#EXTINF:-1 xui-id="109433" tvg-id="" tvg-name="|ES| M+ELLAS #V FHD" tvg-logo="" group-title="DEPORTES", M+ELLAS #V FHD
+#EXTINF:-1 xui-id="109433" tvg-id="M+ #ELLASHD" tvg-name="|ES| M+ELLAS #V FHD" tvg-logo="" group-title="DEPORTES", M+ELLAS #V FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3BECD1BSu7MOVtIyh5NwD5Y
-#EXTINF:-1 xui-id="109434" tvg-id="" tvg-name="|ES| M+ ELLAS #V" tvg-logo="" group-title="DEPORTES", M+ ELLAS #V
+#EXTINF:-1 xui-id="109434" tvg-id="M+ #ELLASHD" tvg-name="|ES| M+ ELLAS #V" tvg-logo="" group-title="DEPORTES", M+ ELLAS #V
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3Cax2oUjBDOFjUS_PAn_diM
 #EXTINF:-1 xui-id="48526" tvg-id="MovistarDeportes.es" tvg-name="|ES| MOVISTAR DEPORTE FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/e3db432d2c1e957261e5d0222cb2f2b4.png"   group-title="DEPORTES",M+ DEPORTES FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypACD7DsDTdicg8lGDyN_H6u
-#EXTINF:-1 xui-id="48560" tvg-id="MOVDEP" tvg-name="|ES| MOVISTAR DEPORTE" tvg-logo="http://protocol.solanaflix.com:8080/images/d6cce6e9adc52e23b63a3699731fb4ff.png" group-title="DEPORTES",M+ DEPORTES
+#EXTINF:-1 xui-id="48560" tvg-id="M+DEPORTESHD" tvg-name="|ES| MOVISTAR DEPORTE" tvg-logo="http://protocol.solanaflix.com:8080/images/d6cce6e9adc52e23b63a3699731fb4ff.png" group-title="DEPORTES",M+ DEPORTES
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypBPEwbGxY6UOnLTeeW_SMxd
-#EXTINF:-1 xui-id="48530" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE 2" tvg-logo="" group-title="DEPORTES",M+ DEPORTES 2
+#EXTINF:-1 xui-id="48530" tvg-id="M+DEPORTES2HD" tvg-name="|ES| MOVISTAR DEPORTE 2" tvg-logo="" group-title="DEPORTES",M+ DEPORTES 2
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypB3bkwbW95yM-lemwPZlDlo
-#EXTINF:-1 xui-id="48531" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE 3" tvg-logo="" group-title="DEPORTES",M+ DEPORTES 3
+#EXTINF:-1 xui-id="48531" tvg-id="M+DEPORTES3HD" tvg-name="|ES| MOVISTAR DEPORTE 3" tvg-logo="" group-title="DEPORTES",M+ DEPORTES 3
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDq11RM1mu8TzYs4ozBRbYd
-#EXTINF:-1 xui-id="48532" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE 4" tvg-logo="" group-title="DEPORTES",M+ DEPORTES 4
+#EXTINF:-1 xui-id="48532" tvg-id="M+DEPORTES4HD" tvg-name="|ES| MOVISTAR DEPORTE 4" tvg-logo="" group-title="DEPORTES",M+ DEPORTES 4
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDch35CrcBO9ffaQbNCZiXM
-#EXTINF:-1 xui-id="48533" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE 5" tvg-logo="" group-title="DEPORTES",M+ DEPORTES 5
+#EXTINF:-1 xui-id="48533" tvg-id="M+DEPORTES5HD" tvg-name="|ES| MOVISTAR DEPORTE 5" tvg-logo="" group-title="DEPORTES",M+ DEPORTES 5
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDrQO-NM8FK9jFAH054wb8Y
-#EXTINF:-1 xui-id="48534" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE 6" tvg-logo="" group-title="DEPORTES",M+ DEPORTES 6
+#EXTINF:-1 xui-id="48534" tvg-id="M+DEPORTES6HD" tvg-name="|ES| MOVISTAR DEPORTE 6" tvg-logo="" group-title="DEPORTES",M+ DEPORTES 6
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypCGEvQkIwyYVHnK9kbmjVug
-#EXTINF:-1 xui-id="48558" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE 7" tvg-logo="" group-title="DEPORTES",M+ DEPORTES 7
+#EXTINF:-1 xui-id="48558" tvg-id="M+DEPORTES7HD" tvg-name="|ES| MOVISTAR DEPORTE 7" tvg-logo="" group-title="DEPORTES",M+ DEPORTES 7
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDSxUmOs314IDIhKD4z0l9z
-#EXTINF:-1 xui-id="48559" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE 8" tvg-logo="" group-title="DEPORTES",M+ DEPORTES 8
+#EXTINF:-1 xui-id="48559" tvg-id="M+DEPORTES8HD" tvg-name="|ES| MOVISTAR DEPORTE 8" tvg-logo="" group-title="DEPORTES",M+ DEPORTES 8
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypCbptCmmdtq9AIOXaR4cUoH
-#EXTINF:-1 xui-id="48536" tvg-id="EUSPESP" tvg-name="|ES| EUROSPORT 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/9022d29e833941a833cf52ad0b337346.png"  group-title="DEPORTES", EUROSPORT 1 FHD
+#EXTINF:-1 xui-id="48536" tvg-id="EUROSPORT1HD" tvg-name="|ES| EUROSPORT 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/9022d29e833941a833cf52ad0b337346.png"  group-title="DEPORTES", EUROSPORT 1 FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypDgSI_Y3ORwg_vnNnRzqz2u
-#EXTINF:-1 xui-id="48535" tvg-id="EURSPHD" tvg-name="|ES| EUROSPORT 1" tvg-logo="http://protocol.solanaflix.com:8080/images/9022d29e833941a833cf52ad0b337346.png" group-title="DEPORTES", EUROSPORT 1
+#EXTINF:-1 xui-id="48535" tvg-id="EUROSPORT1HD" tvg-name="|ES| EUROSPORT 1" tvg-logo="http://protocol.solanaflix.com:8080/images/9022d29e833941a833cf52ad0b337346.png" group-title="DEPORTES", EUROSPORT 1
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypCsT5Kt8ZE59BZRt_qlGOF_
-#EXTINF:-1 xui-id="102765" tvg-id="ES2ESP" tvg-name="|ES| EUROSPORT 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nRzDBhkt_Smf3HF9bsaPPYrNxlpdDIYbp8OnMw0yEND7A.png" group-title="DEPORTES", EUROSPORT 2 FHD
+#EXTINF:-1 xui-id="102765" tvg-id="EUROSPORT2HD" tvg-name="|ES| EUROSPORT 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nRzDBhkt_Smf3HF9bsaPPYrNxlpdDIYbp8OnMw0yEND7A.png" group-title="DEPORTES", EUROSPORT 2 FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3BxdjZUSWDDL_MRxi2WLqW5
-#EXTINF:-1 xui-id="48537" tvg-id="EUROSPS" tvg-name="|ES| EUROSPORT 2" tvg-logo="http://protocol.solanaflix.com:8080/images/1ab6f436b2918cbcaff21cb57ffb8947.png" group-title="DEPORTES", EUROSPORT 2
-#EXTINF:-1 xui-id="48541" tvg-id="MGOLFHD" tvg-name="|ES| MOVISTAR GOLF FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/5b739952580a5fe4358ab442ff632d55.png" group-title="DEPORTES", GOLF FHD
+#EXTINF:-1 xui-id="48537" tvg-id="EUROSPORT2HD" tvg-name="|ES| EUROSPORT 2" tvg-logo="http://protocol.solanaflix.com:8080/images/1ab6f436b2918cbcaff21cb57ffb8947.png" group-title="DEPORTES", EUROSPORT 2
+#EXTINF:-1 xui-id="48541" tvg-id="M+ GOLF HD" tvg-name="|ES| MOVISTAR GOLF FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/5b739952580a5fe4358ab442ff632d55.png" group-title="DEPORTES", GOLF FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypBH3HD9P2ctfPLU7B354U0K
-#EXTINF:-1 xui-id="48540" tvg-id="MGOLF" tvg-name="|ES| MOVISTAR GOLF" tvg-logo="http://protocol.solanaflix.com:8080/images/b3483f059f8b4f1338a362ce50da1b62.png" group-title="DEPORTES",  GOLF
+#EXTINF:-1 xui-id="48540" tvg-id="M+ GOLF HD" tvg-name="|ES| MOVISTAR GOLF" tvg-logo="http://protocol.solanaflix.com:8080/images/b3483f059f8b4f1338a362ce50da1b62.png" group-title="DEPORTES",  GOLF
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypC6SIyu5kQE-bT3F_svaHVO
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypCyNBwY-KkBnXARV-5cO_l2
-#EXTINF:-1 xui-id="48545" tvg-id="TELEDHD" tvg-name="|ES| TELEDEPORTE" tvg-logo="http://protocol.solanaflix.com:8080/images/f2441f5007f7434c4016d8c772892d5b.png" group-title="DEPORTES",TELEDEPORTE
+#EXTINF:-1 xui-id="48545" tvg-id="TELEDEPORTE" tvg-name="|ES| TELEDEPORTE" tvg-logo="http://protocol.solanaflix.com:8080/images/f2441f5007f7434c4016d8c772892d5b.png" group-title="DEPORTES",TELEDEPORTE
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypD60IywNHlvj1YjTuAKi5ng
-#EXTINF:-1 xui-id="48546" tvg-id="TELEDHD" tvg-name="|ES| TELEDEPORTE FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/f2441f5007f7434c4016d8c772892d5b.png" group-title="DEPORTES",TELEDEPORTE FHD
+#EXTINF:-1 xui-id="48546" tvg-id="TELEDEPORTE" tvg-name="|ES| TELEDEPORTE FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/f2441f5007f7434c4016d8c772892d5b.png" group-title="DEPORTES",TELEDEPORTE FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypAP-xa9Hqs-_rUSVjKTTkvn
-#EXTINF:-1 xui-id="48549" tvg-id="ESPOR3" tvg-name="|ES| ESPORT 3" tvg-logo="http://protocol.solanaflix.com:8080/images/97e7168864b8f624c099101b442a970c.png" group-title="DEPORTES",ESPORT 3
+#EXTINF:-1 xui-id="48549" tvg-id="ESPORT3" tvg-name="|ES| ESPORT 3" tvg-logo="http://protocol.solanaflix.com:8080/images/97e7168864b8f624c099101b442a970c.png" group-title="DEPORTES",ESPORT 3
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypBQu7nBhvCbWts4-qMHBUxR
-
-#EXTINF:-1 xui-id="60298" tvg-id="0porMovistarPlus.es" tvg-name="|ES| DAZN 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQBajLdMYdOwi0LacTOjvy8RpNHcceXuH0tqdI9tqpFXw.png" group-title="DAZN",DAZN 1 FHD
+#EXTINF:-1 xui-id="60298" tvg-id="DAZN 1" tvg-name="|ES| DAZN 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQBajLdMYdOwi0LacTOjvy8RpNHcceXuH0tqdI9tqpFXw.png" group-title="DAZN",DAZN 1 FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uuZAhGWqa7_iVVBucSMj8X7vpXI1GmAn01kbl4e6BX_z
-#EXTINF:-1 xui-id="60297" tvg-id="DAZN1Spain.uk" tvg-name="|ES| DAZN 1" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQBajLdMYdOwi0LacTOjvy8RpNHcceXuH0tqdI9tqpFXw.png" group-title="DAZN",DAZN 1
+#EXTINF:-1 xui-id="60297" tvg-id="DAZN 1" tvg-name="|ES| DAZN 1" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQBajLdMYdOwi0LacTOjvy8RpNHcceXuH0tqdI9tqpFXw.png" group-title="DAZN",DAZN 1
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uuZAhGWqa7_iVVBucSMj8X5BPWOQP4jdLzwie04zzp2y
-#EXTINF:-1 xui-id="79524" tvg-id="DAZN2Spain.uk" tvg-name="|ES| DAZN 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nTzh90TXocieJKYhAPUcr2oeuEV0hd0swtsLsQNC-FeQg.png" group-title="DAZN",DAZN 2 FHD
+#EXTINF:-1 xui-id="79524" tvg-id="DAZN 2" tvg-name="|ES| DAZN 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nTzh90TXocieJKYhAPUcr2oeuEV0hd0swtsLsQNC-FeQg.png" group-title="DAZN",DAZN 2 FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22ugPNHrw6OuL0GAOLEKUrr2TAV5OvGU5dnZaKIUox6UPE
-#EXTINF:-1 xui-id="79529" tvg-id="DAZN2Spain.uk" tvg-name="|ES| DAZN 2" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nTzh90TXocieJKYhAPUcr2oeuEV0hd0swtsLsQNC-FeQg.png" group-title="DAZN",DAZN 2
+#EXTINF:-1 xui-id="79529" tvg-id="DAZN 2" tvg-name="|ES| DAZN 2" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nTzh90TXocieJKYhAPUcr2oeuEV0hd0swtsLsQNC-FeQg.png" group-title="DAZN",DAZN 2
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22ugPNHrw6OuL0GAOLEKUrr2S2LoGXq6qOjghSaar4AMhC
-#EXTINF:-1 xui-id="79530" tvg-id="0porMovistarPlus.es" tvg-name="|ES| DAZN 3 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQBajLdMYdOwi0LacTOjvy8RpNHcceXuH0tqdI9tqpFXw.png" group-title="DAZN",DAZN 3 FHD
+#EXTINF:-1 xui-id="79530" tvg-id="DAZN 3" tvg-name="|ES| DAZN 3 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQBajLdMYdOwi0LacTOjvy8RpNHcceXuH0tqdI9tqpFXw.png" group-title="DAZN",DAZN 3 FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22ugPNHrw6OuL0GAOLEKUrr2S14B96P7HOjt84aoJCoSoh
-#EXTINF:-1 xui-id="79531" tvg-id="DAZN4Spain.uk" tvg-name="|ES| DAZN 4 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQBajLdMYdOwi0LacTOjvy8RpNHcceXuH0tqdI9tqpFXw.png" group-title="DAZN",DAZN 4 FHD
+#EXTINF:-1 xui-id="79531" tvg-id="DAZN 4" tvg-name="|ES| DAZN 4 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQBajLdMYdOwi0LacTOjvy8RpNHcceXuH0tqdI9tqpFXw.png" group-title="DAZN",DAZN 4 FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22ugPNHrw6OuL0GAOLEKUrr2QxanHq14uL4zU1CtfO4kMR
-#EXTINF:-1 xui-id="48539" tvg-id="MFOR1HD" tvg-name="|ES| MOVISTAR F1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/581fb6c82289bbb18ce4500a7454cbaa.png" group-title="F1",DAZN F1 FHD
+#EXTINF:-1 xui-id="48539" tvg-id="DAZN F1 HD" tvg-logo="http://protocol.solanaflix.com:8080/images/3RKIty9bJG7_CGIndXhAJFiaUSdij1wbJyESkq1ambaRTNY6J6OERcJeYqFKloA9mWUdMZm38B_f4Oq2YJcL61kjdZj3tzuqVvqVqDgK6Y5ZioXO8qoDlj2tdkDfcpk-.png" group-title="F1",DAZN F1 FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypD5KBy8y-7T1F5klAEFduBM
-#EXTINF:-1 xui-id="48538" tvg-id="MFOR1" tvg-name="|ES| MOVISTAR F1" tvg-logo="http://protocol.solanaflix.com:8080/images/581fb6c82289bbb18ce4500a7454cbaa.png" group-title="F1",DAZN F1 F1
+#EXTINF:-1 xui-id="48538" tvg-id="DAZN F1 HD" tvg-name="DAZN F1"tvg-logo="http://protocol.solanaflix.com:8080/images/3RKIty9bJG7_CGIndXhAJFiaUSdij1wbJyESkq1ambaRTNY6J6OERcJeYqFKloA9mWUdMZm38B_f4Oq2YJcL61kjdZj3tzuqVvqVqDgK6Y5ZioXO8qoDlj2tdkDfcpk-.png"  group-title="F1",DAZN F1 
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22utE97FH-2GfJU8iTgv4AypAd9WtxwehZteMnvK_16yah
-#EXTINF:-1 xui-id="82181" tvg-id="DAZNF1.es" tvg-name="|ES| DAZN F1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/3RKIty9bJG7_CGIndXhAJFiaUSdij1wbJyESkq1ambaRTNY6J6OERcJeYqFKloA9mWUdMZm38B_f4Oq2YJcL61kjdZj3tzuqVvqVqDgK6Y5ZioXO8qoDlj2tdkDfcpk-.png" group-title="F1",DAZN F1 FHD
+#EXTINF:-1 xui-id="82181" tvg-id="DAZN F1 HD" tvg-name="DAZN F1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/3RKIty9bJG7_CGIndXhAJFiaUSdij1wbJyESkq1ambaRTNY6J6OERcJeYqFKloA9mWUdMZm38B_f4Oq2YJcL61kjdZj3tzuqVvqVqDgK6Y5ZioXO8qoDlj2tdkDfcpk-.png" group-title="F1",DAZN F1 FHD
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uhgX12kGe3Xw6ptMHH5taIBKL3tARy1xW01mTAlBWmBI
 #EXTINF:-1 xui-id="109458" tvg-id="" tvg-name="|F1TV| Practise / Qualifying / Main Race" tvg-logo="" group-title="F1",Practise / Qualifying / Main Race
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3CzngfpRce3T4NDtrWFcx0f
@@ -2187,5 +2185,6 @@ http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacI
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3DPUoH8hOqVXTtKtf0eg4CA
 #EXTINF:-1 xui-id="103359" tvg-id="" tvg-name="BTN 20: Minnesota vs St. Thomas | Ice Hockey (W) - Sun 27th 8:00PM" tvg-logo="" group-title="US - SPORT",BTN 20: Minnesota vs St. Thomas | Ice Hockey (W) - Sun 27th 8:00PM
 http://protocol.solanaflix.com:8080/play/FdMSMiFS12fZxRcfbR22uty1hADSpSGJtc5YacIzw3CRFV-QFQuXZfnNufSzd_58
+
 
 
